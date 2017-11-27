@@ -31,23 +31,26 @@ public class BackerKitFormatter {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        BackerKitFormatter formatter = new BackerKitFormatter();
-        String output = "replace.csv";
-        String input = "Original111417.csv";
-        formatter.makeAllOrdersOneLine(input, output);
-        ArrayList<Order> orderList = formatter.getOrders(output);
-        for(Order o : orderList){
-            o.formatFullAddress();
-            o.getSKUs().produceCombos();  
-        }
-        ArrayList<Order> cancelFail = formatter.moveCanceledFailed(orderList);
-        String finalOutput = "outputTest" + System.currentTimeMillis() + ".csv";
-        ArrayList<Order> separateOrderList = formatter.makeLines(formatter.copyOrderList(orderList));
-        formatter.first300OrderFiles(formatter.copyOrderList(separateOrderList));
-        System.out.println();
-        formatter.writeOrdersToFile(finalOutput, orderList);
-        formatter.writeOrdersToFile("failCancel.csv", cancelFail);
-        File file = new File("failCancel.csv");
+//        BackerKitFormatter formatter = new BackerKitFormatter();
+//        String output = "replace.csv";
+//        String input = "Original111417.csv";
+//        formatter.makeAllOrdersOneLine(input, output);
+//        ArrayList<Order> orderList = formatter.getOrders(output);
+//        for(Order o : orderList){
+//            o.formatFullAddress();
+//            o.getSKUs().produceCombos();  
+//        }
+//        ArrayList<Order> cancelFail = formatter.moveCanceledFailed(orderList);
+//        String finalOutput = "outputTest" + System.currentTimeMillis() + ".csv";
+//        ArrayList<Order> separateOrderList = formatter.makeLines(formatter.copyOrderList(orderList));
+//        formatter.first300OrderFiles(formatter.copyOrderList(separateOrderList));
+//        System.out.println();
+//        formatter.writeOrdersToFile(finalOutput, orderList);
+//        formatter.writeOrdersToFile("failCancel.csv", cancelFail);
+//        File file = new File("failCancel.csv");
+        
+        OrderList oList = new OrderList(new File("Original111417.csv"));
+        oList.writeOrdersToFile("oListTest.CSV", "OrderListTest");
     }
     
     //organize the list in order of time pledged to the campaign
