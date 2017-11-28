@@ -80,8 +80,8 @@ public class SKUs {
             return this;
         }
         
-        public SKUsBuilder puRollr(int pRollr) {
-            this.pRollr = pRollr;
+        public SKUsBuilder puRollr(int puRollr) {
+            this.puRollr = puRollr;
             return this;
         }
     }

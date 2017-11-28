@@ -1,14 +1,14 @@
 "Id","Service Guid","Platform","Reward Id","Name","Email","Address Name","Address Line 1","Address Line 2","Address City","Address State","Address Country","Address Postal Code","Address Phone Number","Pledge Amount","Pledge Status","Notes","Public Notes","Pledged At","Survey Answered At","Full Address","Full Country","Reward Price","Reward Description","Order Placed","Order ID","Order Status","Order Charged","Charge Token","Funds Added in BackerKit","Add-on Shipping Subtotal","Pledge Level Shipping Subtotal","Total Spent","ABH","ABO","ACL","DESERT COOLER","ADCH","MOSS COOLER","NARWHAL BLUE COOLER","ANL","POWDER COOLER","APBT","PINK UNICORN COOLER","ARTLC","ARTMC","ARTSC","ARTXLC","ARTXXLC","ASB","ATD","ATL","60DROLLR","60MROLLR","60PROLLR","60NBROLLR","60PUROLLR","60DBIKR","60MBIKR","60PBIKR","60NBBIKR","60PUBIKR"
-"8650872","3","kickstarter","125563","Wendy Krause","whitewaterwendy@gmail.com","Wendy Krause","543 E Jones St","","Raleigh","NC","US","27601-1171","919-744-4871","279.0","collected","","","2017-08-15 07:15:44 -0700","2017-09-29 18:05:09 -0700","Wendy Krause
-543 E Jones St
-Raleigh, NC 27601-1171
-United States of America
-919-744-4871","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6521715","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8650873","2","kickstarter","125565","Kelsey Whitebay","kwhitebay@yahoo.com","Kelsey Whitebay","1814 Edwards St","","Houston","TX","US","77007-4033","2814680956","299.0","collected","","","2017-08-15 07:14:37 -0700","2017-09-29 07:37:20 -0700","Kelsey Whitebay
 1814 Edwards St
 Houston, TX 77007-4033
 United States of America
 2814680956","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512871","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
+"8650872","3","kickstarter","125563","Wendy Krause","whitewaterwendy@gmail.com","Wendy Krause","543 E Jones St","","Raleigh","NC","US","27601-1171","919-744-4871","279.0","collected","","","2017-08-15 07:15:44 -0700","2017-09-29 18:05:09 -0700","Wendy Krause
+543 E Jones St
+Raleigh, NC 27601-1171
+United States of America
+919-744-4871","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6521715","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8650874","4","kickstarter","125563","zack.ebel","zack.ebel@gmail.com","Zack Ebel","1377 E Deer Creek Dr","","Crossville","TN","US","38571-3262","5082546487","279.0","collected","","","2017-08-15 07:19:02 -0700","2017-09-28 20:13:54 -0700","Zack Ebel
 1377 E Deer Creek Dr
 Crossville, TN 38571-3262
@@ -59,6 +59,11 @@ United States of America
 Boulder, CO 80303-2406
 United States of America
 303 9469050","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/02/17","6550532","paid","10/17/17","ch_1BE2n6FJMiS2mk7EECdWiACq","22.0","3.0","30.0","321.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
+"8650886","14","kickstarter","125565","Jackie Nixon","cougarpanthera@yahoo.com","Jacquelyn Nixon","11350 E Lake Rd","","Hammondsport","NY","US","14840-7001","5857270939","299.0","collected","","","2017-08-15 08:09:24 -0700","2017-10-03 17:34:55 -0700","Jacquelyn Nixon
+11350 E Lake Rd
+Hammondsport, NY 14840-7001
+United States of America
+5857270939","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/03/17","6567887","paid","10/23/17","ch_1BGEx1FJMiS2mk7EoMdX4gmW","64.0","6.0","30.0","363.0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8650884","15","kickstarter","125563","Mark Pecota","mark@thelabelcreative.com","Mark Pecota","2075 Thomas Ave","","San Diego","CA","US","92109-4617","4088880830","279.0","collected","","","2017-08-15 08:09:41 -0700","2017-09-28 16:50:24 -0700","Mark Pecota
 2075 Thomas Ave
 San Diego, CA 92109-4617
@@ -69,26 +74,11 @@ United States of America
 Peoria, AZ 85383-6002
 United States of America
 6235371678","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6510828","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
-"8650886","14","kickstarter","125565","Jackie Nixon","cougarpanthera@yahoo.com","Jacquelyn Nixon","11350 E Lake Rd","","Hammondsport","NY","US","14840-7001","5857270939","299.0","collected","","","2017-08-15 08:09:24 -0700","2017-10-03 17:34:55 -0700","Jacquelyn Nixon
-11350 E Lake Rd
-Hammondsport, NY 14840-7001
-United States of America
-5857270939","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/03/17","6567887","paid","10/23/17","ch_1BGEx1FJMiS2mk7EoMdX4gmW","64.0","6.0","30.0","363.0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8650887","17","kickstarter","125565","Michelle Baker","michelle2781@gmail.com","Michelle Baker","103 Morgan Ln Ste 200","","Plainsboro","NJ","US","08536-3300","6099156121","299.0","collected","","","2017-08-15 08:11:27 -0700","2017-09-28 17:30:16 -0700","Michelle Baker
 103 Morgan Ln Ste 200
 Plainsboro, NJ 08536-3300
 United States of America
 6099156121","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6509003","paid","10/17/17","ch_1BE2n2FJMiS2mk7E7GctdheB","13.0","3.0","30.0","312.0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
-"8650888","32","kickstarter","125563","","fortkemp95@gmail.com","chris kemper","1817 Main St","","Newberry","SC","US","29108-3555","4044011980","279.0","collected","","","2017-08-15 08:24:57 -0700","2017-10-05 07:25:47 -0700","chris kemper
-1817 Main St
-Newberry, SC 29108-3555
-United States of America
-4044011980","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/05/17","6581545","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8650889","36","kickstarter","125565","Sage Appleby","sage@ccctexas.org","SAGE APPLEBY","1403 Metropolitan Dr","","Killeen","TX","US","76541-8225","7066195673","299.0","collected","","","2017-08-15 08:29:01 -0700","2017-09-28 17:32:30 -0700","SAGE APPLEBY
-1403 Metropolitan Dr
-Killeen, TX 76541-8225
-United States of America
-7066195673","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508977","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8650890","18","kickstarter","125565","Keith Moreno","longviewgarage@gmail.com","KEITH MORENO","11806 Forest Wind Ln","","Houston","TX","US","77066","7138700213","0.0","failed","","","2017-08-15 08:14:17 -0700","2017-11-09 12:03:14 -0800","KEITH MORENO
 11806 Forest Wind Ln
 Houston, TX 77066
@@ -99,31 +89,26 @@ United States of America
 Rocklin, CA 95765-5503
 United States of America
 9164206822","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509826","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8650892","21","kickstarter","125563","","whelsh@gmail.com","Stephen Williams ","1520 Center St","","Sanibel","FL","US","33957-4517","2393124452","279.0","collected","","","2017-08-15 08:18:32 -0700","2017-09-28 15:21:50 -0700","Stephen Williams 
-1520 Center St
-Sanibel, FL 33957-4517
-United States of America
-2393124452","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6507926","paid","10/17/17","ch_1BE2n2FJMiS2mk7ENyNQUhXE","34.0","5.0","30.0","313.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8650893","20","kickstarter","125565","Tony Ly","tonyly77@gmail.com","Tony Ly","8019 Kenova St","","San Diego","CA","US","92126-3119","8583366225","299.0","collected","","","2017-08-15 08:17:47 -0700","2017-10-02 13:58:40 -0700","Tony Ly
 8019 Kenova St
 San Diego, CA 92126-3119
 United States of America
 8583366225","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6510619","paid","10/17/17","ch_1BE38fFJMiS2mk7Ej52ooPWu","14.0","3.0","30.0","313.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","0","0","0","0","0","0","0","0","1","0","0"
-"8650894","29","kickstarter","125565","","mikr3071@colorado.edu","Michael Krohn","1451 24th St Apt 432","","Denver","CO","US","80205-2191","6303353880","299.0","collected","","","2017-08-15 08:22:43 -0700","2017-09-29 07:48:22 -0700","Michael Krohn
-1451 24th St Apt 432
-Denver, CO 80205-2191
+"8650892","21","kickstarter","125563","","whelsh@gmail.com","Stephen Williams ","1520 Center St","","Sanibel","FL","US","33957-4517","2393124452","279.0","collected","","","2017-08-15 08:18:32 -0700","2017-09-28 15:21:50 -0700","Stephen Williams 
+1520 Center St
+Sanibel, FL 33957-4517
 United States of America
-6303353880","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512937","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
-"8650895","23","kickstarter","125563","Nate Blase","nateblase@gmail.com","Nathan Blase","204 Oakmont Dr","","Northlake","TX","US","76226-1492","6782815335","279.0","collected","","","2017-08-15 08:18:47 -0700","2017-09-29 19:41:58 -0700","Nathan Blase
-204 Oakmont Dr
-Northlake, TX 76226-1492
-United States of America
-6782815335","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6522201","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+2393124452","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6507926","paid","10/17/17","ch_1BE2n2FJMiS2mk7ENyNQUhXE","34.0","5.0","30.0","313.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8650896","22","kickstarter","125574","Jon Tuttle","jontuttle@me.com","Jonathan Tuttle","15039 S Eagle Crest Dr","","Draper","UT","US","84020-5720","8015725537","579.0","collected","","","2017-08-15 08:18:41 -0700","2017-10-15 18:36:03 -0700","Jonathan Tuttle
 15039 S Eagle Crest Dr
 Draper, UT 84020-5720
 United States of America
 8015725537","United States of America","519.0","BikR Kit | Two Pack - Get The RollR 60 (x2) and Bike Attachment (x2) at 43% OFF! Retail: $908 You Save: $389 You will choose your color after the campaign is over.","10/15/17","6651521","locked_down","","","0.0","0","60.0","579.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","0","0","0","0","0","1","0","0","1","0"
+"8650895","23","kickstarter","125563","Nate Blase","nateblase@gmail.com","Nathan Blase","204 Oakmont Dr","","Northlake","TX","US","76226-1492","6782815335","279.0","collected","","","2017-08-15 08:18:47 -0700","2017-09-29 19:41:58 -0700","Nathan Blase
+204 Oakmont Dr
+Northlake, TX 76226-1492
+United States of America
+6782815335","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6522201","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8650897","24","kickstarter","125577","Tom Dadourian","tdadourian@gmail.com","","","","","","","","","10.0","collected","","","2017-08-15 08:20:07 -0700","","
 
 ,  
@@ -140,11 +125,6 @@ United States of America
 Athens, GA 30605-2308
 United States of America
 7063401313","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6521745","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
-"8650900","30","kickstarter","125563","Gabriella Schiavino","grschiavino@yahoo.com","Gabriella Schiavino","5113 Thistle Pl","","Loveland","CO","US","80537-9124","9704859782","279.0","collected","","","2017-08-15 08:23:12 -0700","2017-09-28 18:57:56 -0700","Gabriella Schiavino
-5113 Thistle Pl
-Loveland, CO 80537-9124
-United States of America
-9704859782","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509496","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8650901","27","kickstarter","125563","Derek","djf0921@gmail.com","Derek Frantz","6131 Challedon Cir","","Mount Airy","MD","US","21771-8057","4433408830","279.0","collected","","","2017-08-15 08:22:19 -0700","2017-09-28 15:48:25 -0700","Derek Frantz
 6131 Challedon Cir
 Mount Airy, MD 21771-8057
@@ -155,6 +135,21 @@ United States of America
 Peyton, CO 80831-9342
 United States of America
 8145252423","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","09/28/17","6509872","paid","10/17/17","ch_1BE2n2FJMiS2mk7EkhRwD7g7","62.0","12.0","60.0","591.0","0","2","0","0","0","0","0","2","0","0","0","0","0","0","0","0","2","2","0","0","0","1","0","1","0","0","0","0","0"
+"8650894","29","kickstarter","125565","","mikr3071@colorado.edu","Michael Krohn","1451 24th St Apt 432","","Denver","CO","US","80205-2191","6303353880","299.0","collected","","","2017-08-15 08:22:43 -0700","2017-09-29 07:48:22 -0700","Michael Krohn
+1451 24th St Apt 432
+Denver, CO 80205-2191
+United States of America
+6303353880","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512937","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
+"8650900","30","kickstarter","125563","Gabriella Schiavino","grschiavino@yahoo.com","Gabriella Schiavino","5113 Thistle Pl","","Loveland","CO","US","80537-9124","9704859782","279.0","collected","","","2017-08-15 08:23:12 -0700","2017-09-28 18:57:56 -0700","Gabriella Schiavino
+5113 Thistle Pl
+Loveland, CO 80537-9124
+United States of America
+9704859782","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509496","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+"8650888","32","kickstarter","125563","","fortkemp95@gmail.com","chris kemper","1817 Main St","","Newberry","SC","US","29108-3555","4044011980","279.0","collected","","","2017-08-15 08:24:57 -0700","2017-10-05 07:25:47 -0700","chris kemper
+1817 Main St
+Newberry, SC 29108-3555
+United States of America
+4044011980","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/05/17","6581545","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8650903","33","kickstarter","125563","Kari Morlock","karimorlock@gmail.com","Kari Morlock","3585 S Gekeler Ln # L119","","Boise","ID","US","83706-6472","2085854983","279.0","collected","","","2017-08-15 08:26:26 -0700","2017-10-08 08:32:49 -0700","Kari Morlock
 3585 S Gekeler Ln # L119
 Boise, ID 83706-6472
@@ -165,21 +160,16 @@ United States of America
 Woods Cross, UT 84087-2251
 United States of America
 8018087422","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508168","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8650905","40","kickstarter","125563","","goldj40@yahoo.com","Jonah Goldman","9985 W 32nd Ave","","Wheat Ridge","CO","US","80033-5773","7209376186","279.0","collected","","","2017-08-15 08:32:27 -0700","2017-10-01 10:23:30 -0700","Jonah Goldman
-9985 W 32nd Ave
-Wheat Ridge, CO 80033-5773
+"8650889","36","kickstarter","125565","Sage Appleby","sage@ccctexas.org","SAGE APPLEBY","1403 Metropolitan Dr","","Killeen","TX","US","76541-8225","7066195673","299.0","collected","","","2017-08-15 08:29:01 -0700","2017-09-28 17:32:30 -0700","SAGE APPLEBY
+1403 Metropolitan Dr
+Killeen, TX 76541-8225
 United States of America
-7209376186","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6531437","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
+7066195673","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508977","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8650906","37","kickstarter","125565","Tracy Young","tlyoung221@gmail.com","Tracy L Young","1914 S Sunnyvale Ave","","Gilbert","AZ","US","85295-9089","4804364724","299.0","collected","","","2017-08-15 08:30:24 -0700","2017-11-06 22:08:03 -0800","Tracy L Young
 1914 S Sunnyvale Ave
 Gilbert, AZ 85295-9089
 United States of America
 4804364724","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/05/17","6584943","open","","","31.0","6.0","30.0","330.0","0","1","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","1","0","0","0","0","0","0","1","0","0","0","0"
-"8650907","46","kickstarter","125565","Justin Dickinson","jddicki@g.clemson.edu","Justin Dickinson ","505 Tillery St Unit 8","","Austin","TX","US","78702-4947","2032571526","299.0","collected","","","2017-08-15 08:37:20 -0700","2017-10-12 18:43:07 -0700","Justin Dickinson 
-505 Tillery St Unit 8
-Austin, TX 78702-4947
-United States of America
-2032571526","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/12/17","6636505","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650908","38","kickstarter","125565","Grant Brugger","bruggerg1333@gmail.com","Grant Brugger","1081 Weston Ln N","","Minneapolis","MN","US","55447-3601","2626231980","299.0","collected","","","2017-08-15 08:30:32 -0700","2017-09-28 15:22:23 -0700","Grant Brugger
 1081 Weston Ln N
 Minneapolis, MN 55447-3601
@@ -190,6 +180,16 @@ United States of America
 San Elizario, TX 79849-8607
 United States of America
 9157403838","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508712","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
+"8650905","40","kickstarter","125563","","goldj40@yahoo.com","Jonah Goldman","9985 W 32nd Ave","","Wheat Ridge","CO","US","80033-5773","7209376186","279.0","collected","","","2017-08-15 08:32:27 -0700","2017-10-01 10:23:30 -0700","Jonah Goldman
+9985 W 32nd Ave
+Wheat Ridge, CO 80033-5773
+United States of America
+7209376186","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6531437","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
+"8650912","41","kickstarter","125565","Hannah Slothower","hanimal9@gmail.com","Hannah Slothower","1119 14th Ave","","Moline","IL","US","61265-3074","3097378740","299.0","collected","","","2017-08-15 08:35:40 -0700","2017-09-28 15:30:35 -0700","Hannah Slothower
+1119 14th Ave
+Moline, IL 61265-3074
+United States of America
+3097378740","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508023","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8650910","42","kickstarter","125565","Darren (dmb359)","darrenbraml@yahoo.com","Darren Braml ","2825 87th Trl N","","Brooklyn Park","MN","US","55443-3746","6123824262","299.0","collected","","","2017-08-15 08:36:02 -0700","2017-09-28 15:59:19 -0700","Darren Braml 
 2825 87th Trl N
 Brooklyn Park, MN 55443-3746
@@ -200,81 +200,76 @@ United States of America
 Cape Coral, FL 33914-6064
 United States of America
 2398413895","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6511998","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
-"8650912","41","kickstarter","125565","Hannah Slothower","hanimal9@gmail.com","Hannah Slothower","1119 14th Ave","","Moline","IL","US","61265-3074","3097378740","299.0","collected","","","2017-08-15 08:35:40 -0700","2017-09-28 15:30:35 -0700","Hannah Slothower
-1119 14th Ave
-Moline, IL 61265-3074
-United States of America
-3097378740","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508023","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
-"8650913","48","kickstarter","125565","Rid Hollands","rid27@hotmail.com","Rid Hollands","4042 Morrell St Unit C","","San Diego","CA","US","92109-6289","8085616742","299.0","collected","","","2017-08-15 08:39:51 -0700","2017-10-02 07:02:32 -0700","Rid Hollands
-4042 Morrell St Unit C
-San Diego, CA 92109-6289
-United States of America
-8085616742","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/02/17","6552212","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650914","44","kickstarter","125565","","courtmey@gmail.com","Courtney Strohacker","8340 Parkridge Dr","","Dexter","MI","US","48130-9397","734-417-0029","299.0","collected","","","2017-08-15 08:36:37 -0700","2017-09-28 17:21:30 -0700","Courtney Strohacker
 8340 Parkridge Dr
 Dexter, MI 48130-9397
 United States of America
 734-417-0029","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508933","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
-"8650915","80","kickstarter","125565","Madi Davis (Canceled)","canceled+mermaidmadee@gmail.comcanceled","","","","","","","","","0.0","failed"," Marked As Canceled on 2017-10-07","","2017-08-15 09:15:50 -0700","","
-
-,  
-
-","","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","","","survey_not_answered","","","0.0","0","0.0","0.0","1","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
 "8650916","45","kickstarter","125565","Ben Lieberman","bentlieberman@gmail.com","Ben Lieberman","2945 E Morningside Dr","","Holladay","UT","US","84124-2101","14065814661","299.0","collected","","","2017-08-15 08:37:00 -0700","2017-09-28 19:37:16 -0700","Ben Lieberman
 2945 E Morningside Dr
 Holladay, UT 84124-2101
 United States of America
 14065814661","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6509776","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
-"8650917","51","kickstarter","125571","Austin Levine","ajlevine1027@gmail.com","Austin Levine","21232 Crab Orchard Ct","","Ashburn","VA","US","20147","5713441330","379.0","collected","","","2017-08-15 08:41:17 -0700","2017-09-28 08:04:56 -0700","Austin Levine
-21232 Crab Orchard Ct
-Ashburn, VA 20147
+"8650907","46","kickstarter","125565","Justin Dickinson","jddicki@g.clemson.edu","Justin Dickinson ","505 Tillery St Unit 8","","Austin","TX","US","78702-4947","2032571526","299.0","collected","","","2017-08-15 08:37:20 -0700","2017-10-12 18:43:07 -0700","Justin Dickinson 
+505 Tillery St Unit 8
+Austin, TX 78702-4947
 United States of America
-5713441330","United States of America","349.0","RollR 60 - Get The RollR 60 at 13% OFF! Retail: $399 You Save: $50 You will choose your color after the campaign is over.","09/28/17","6503574","locked_down","","","0.0","0","30.0","379.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+2032571526","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/12/17","6636505","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650918","47","kickstarter","125563","Brett Salter","bsalt1730@yahoo.com","Brett Salter","1414 Pacific Dr","","Coos Bay","OR","US","97420-2826","6618029700 ","279.0","collected","","","2017-08-15 08:38:41 -0700","2017-09-28 16:32:59 -0700","Brett Salter
 1414 Pacific Dr
 Coos Bay, OR 97420-2826
 United States of America
 6618029700 ","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508542","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
-"8650919","57","kickstarter","125565","","chad.wolf@huskers.unl.edu","Chad wolf","5763 Arapahoe Ave Ste O","","Boulder","CO","US","80303-1350","4022015289","299.0","collected","","","2017-08-15 08:45:22 -0700","2017-09-28 17:37:22 -0700","Chad wolf
-5763 Arapahoe Ave Ste O
-Boulder, CO 80303-1350
+"8650913","48","kickstarter","125565","Rid Hollands","rid27@hotmail.com","Rid Hollands","4042 Morrell St Unit C","","San Diego","CA","US","92109-6289","8085616742","299.0","collected","","","2017-08-15 08:39:51 -0700","2017-10-02 07:02:32 -0700","Rid Hollands
+4042 Morrell St Unit C
+San Diego, CA 92109-6289
 United States of America
-4022015289","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6509018","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
+8085616742","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/02/17","6552212","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650920","49","kickstarter","125563","Fred Burghardt","eburg315@gmail.com","Fred Burghardt","28 Waycross Rd","","Fairport","NY","US","14450-9361","5857445076","279.0","collected","","","2017-08-15 08:41:07 -0700","2017-10-01 09:14:13 -0700","Fred Burghardt
 28 Waycross Rd
 Fairport, NY 14450-9361
 United States of America
 5857445076","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6530280","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8650921","52","kickstarter","125565","Steve Novosad","scubasteve19842011@gmail.com","Steven Novosad","18270 Big Ben Ct","","Fountain Valley","CA","US","92708-6806","9519726079","299.0","collected","","","2017-08-15 08:41:29 -0700","2017-09-28 15:32:44 -0700","Steven Novosad
-18270 Big Ben Ct
-Fountain Valley, CA 92708-6806
-United States of America
-9519726079","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508072","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
 "8650922","50","kickstarter","125577","Mike","mike@thelabelcreative.com","","","","","","","","","1.0","collected","","","2017-08-15 08:41:14 -0700","","
 
 ,  
 
 ","","0.0","Backers in this tier chose not to receive a reward","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
+"8650917","51","kickstarter","125571","Austin Levine","ajlevine1027@gmail.com","Austin Levine","21232 Crab Orchard Ct","","Ashburn","VA","US","20147","5713441330","379.0","collected","","","2017-08-15 08:41:17 -0700","2017-09-28 08:04:56 -0700","Austin Levine
+21232 Crab Orchard Ct
+Ashburn, VA 20147
+United States of America
+5713441330","United States of America","349.0","RollR 60 - Get The RollR 60 at 13% OFF! Retail: $399 You Save: $50 You will choose your color after the campaign is over.","09/28/17","6503574","locked_down","","","0.0","0","30.0","379.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+"8650921","52","kickstarter","125565","Steve Novosad","scubasteve19842011@gmail.com","Steven Novosad","18270 Big Ben Ct","","Fountain Valley","CA","US","92708-6806","9519726079","299.0","collected","","","2017-08-15 08:41:29 -0700","2017-09-28 15:32:44 -0700","Steven Novosad
+18270 Big Ben Ct
+Fountain Valley, CA 92708-6806
+United States of America
+9519726079","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508072","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
 "8650923","53","kickstarter","125563","melissa mites","melmites@gmail.com","","","","","","US","","","0.0","failed","","","2017-08-15 08:43:17 -0700","","
 
 ,  
 United States of America
 ","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
-"8650924","55","kickstarter","125563","Erin Hardesty Guenther","jd.erin@sbcglobal.net","Erin Guenther ","1226 Avery Ct","","Kirkwood","MO","US","63122-1214","3143151356","279.0","collected","","","2017-08-15 08:44:59 -0700","2017-09-28 16:26:54 -0700","Erin Guenther 
-1226 Avery Ct
-Kirkwood, MO 63122-1214
-United States of America
-3143151356","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508497","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8650925","54","kickstarter","125565","Jonathan Colon","jonathan.david.colon@gmail.com","Jonathan Colon","1657 N Francisco Ave Apt 1","","Chicago","IL","US","60647-5185","6302051003","299.0","collected","","","2017-08-15 08:44:14 -0700","2017-09-30 08:50:21 -0700","Jonathan Colon
 1657 N Francisco Ave Apt 1
 Chicago, IL 60647-5185
 United States of America
 6302051003","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/30/17","6525426","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
+"8650924","55","kickstarter","125563","Erin Hardesty Guenther","jd.erin@sbcglobal.net","Erin Guenther ","1226 Avery Ct","","Kirkwood","MO","US","63122-1214","3143151356","279.0","collected","","","2017-08-15 08:44:59 -0700","2017-09-28 16:26:54 -0700","Erin Guenther 
+1226 Avery Ct
+Kirkwood, MO 63122-1214
+United States of America
+3143151356","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508497","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8650926","56","kickstarter","125563","Tarah Dang","dangtarah@gmail.com","Tarah Dang","15257 NW Dane Ln","","Portland","OR","US","97229-8943","8057294353","279.0","collected","","","2017-08-15 08:45:05 -0700","2017-09-28 15:40:53 -0700","Tarah Dang
 15257 NW Dane Ln
 Portland, OR 97229-8943
 United States of America
 8057294353","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508135","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
+"8650919","57","kickstarter","125565","","chad.wolf@huskers.unl.edu","Chad wolf","5763 Arapahoe Ave Ste O","","Boulder","CO","US","80303-1350","4022015289","299.0","collected","","","2017-08-15 08:45:22 -0700","2017-09-28 17:37:22 -0700","Chad wolf
+5763 Arapahoe Ave Ste O
+Boulder, CO 80303-1350
+United States of America
+4022015289","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6509018","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650927","58","kickstarter","125563","Jaime Battison","battison25@yahoo.com","Jaime Battison","2452 Beech Ct","","Golden","CO","US","80401-2234","716-640-3273","279.0","collected","","","2017-08-15 08:47:12 -0700","2017-09-29 07:00:33 -0700","Jaime Battison
 2452 Beech Ct
 Golden, CO 80401-2234
@@ -285,21 +280,21 @@ United States of America
 Auburn, NE 68305-1852
 United States of America
 2063726046","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509505","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
-"8650929","62","kickstarter","125563","gabriella barbiero","scorcher974@gmail.com","gabriella barbiero","29 Spring Valley Rd","","Ossining","NY","US","10562-2001","914-419-1687","279.0","collected","","","2017-08-15 08:49:31 -0700","2017-09-29 08:26:46 -0700","gabriella barbiero
-29 Spring Valley Rd
-Ossining, NY 10562-2001
-United States of America
-914-419-1687","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6513253","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8650930","61","kickstarter","125565","Michael Ballas","michaelballas@gmail.com","Michael Ballas","5009 Sherwood Rd","","Bethel Park","PA","US","15102-2023","4124018338","299.0","collected","","","2017-08-15 08:49:29 -0700","2017-09-29 06:27:11 -0700","Michael Ballas
-5009 Sherwood Rd
-Bethel Park, PA 15102-2023
-United States of America
-4124018338","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512480","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8650931","60","kickstarter","125563","Celeste Jibben","celestejibben@yahoo.com","celeste jibben","1821 W 49th St","","Minneapolis","MN","US","55419-5223","6129251386","279.0","collected","","","2017-08-15 08:49:01 -0700","2017-10-01 14:21:05 -0700","celeste jibben
 1821 W 49th St
 Minneapolis, MN 55419-5223
 United States of America
 6129251386","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6535701","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
+"8650930","61","kickstarter","125565","Michael Ballas","michaelballas@gmail.com","Michael Ballas","5009 Sherwood Rd","","Bethel Park","PA","US","15102-2023","4124018338","299.0","collected","","","2017-08-15 08:49:29 -0700","2017-09-29 06:27:11 -0700","Michael Ballas
+5009 Sherwood Rd
+Bethel Park, PA 15102-2023
+United States of America
+4124018338","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512480","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
+"8650929","62","kickstarter","125563","gabriella barbiero","scorcher974@gmail.com","gabriella barbiero","29 Spring Valley Rd","","Ossining","NY","US","10562-2001","914-419-1687","279.0","collected","","","2017-08-15 08:49:31 -0700","2017-09-29 08:26:46 -0700","gabriella barbiero
+29 Spring Valley Rd
+Ossining, NY 10562-2001
+United States of America
+914-419-1687","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6513253","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8650932","63","kickstarter","125563","Chris Kerr","kerr.c@comcast.net","Christopher Kerr","26 Ridge Rd","","Reading","MA","US","01867-1615","7816709096","279.0","collected","","","2017-08-15 08:49:53 -0700","2017-09-30 07:28:18 -0700","Christopher Kerr
 26 Ridge Rd
 Reading, MA 01867-1615
@@ -325,26 +320,26 @@ United States of America
 Redondo Beach, CA 90277-3240
 United States of America
 3104271899","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6507994","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
-"8650937","69","kickstarter","125565","Carter Wheeler","carterwheeler@gmail.com","Gates Wheeler","4110 Beach Dr SW","","Seattle","WA","US","98116-3526","6178387775","299.0","collected","","","2017-08-15 09:04:28 -0700","2017-09-29 10:06:45 -0700","Gates Wheeler
-4110 Beach Dr SW
-Seattle, WA 98116-3526
-United States of America
-6178387775","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6515186","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650938","68","kickstarter","125574","Alton","altonrhughesii@outlook.com","Alton Hughes II","378 Washington St","","Brookline","MA","US","02445-6852","7327665200","579.0","collected","","","2017-08-15 09:03:35 -0700","2017-10-04 07:43:13 -0700","Alton Hughes II
 378 Washington St
 Brookline, MA 02445-6852
 United States of America
 7327665200","United States of America","519.0","BikR Kit | Two Pack - Get The RollR 60 (x2) and Bike Attachment (x2) at 43% OFF! Retail: $908 You Save: $389 You will choose your color after the campaign is over.","10/04/17","6572421","locked_down","","","0.0","0","60.0","579.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","0","0","0","0","0","1","0","0","1","0"
-"8650939","71","kickstarter","125563","Dan Hillmann","cardan0023@gmail.com","Daniel Hillmann","159 Sherwood Dr","","Freehold","NJ","US","07728-1326","7327406263","279.0","collected","","","2017-08-15 09:05:46 -0700","2017-09-29 03:34:40 -0700","Daniel Hillmann
-159 Sherwood Dr
-Freehold, NJ 07728-1326
+"8650937","69","kickstarter","125565","Carter Wheeler","carterwheeler@gmail.com","Gates Wheeler","4110 Beach Dr SW","","Seattle","WA","US","98116-3526","6178387775","299.0","collected","","","2017-08-15 09:04:28 -0700","2017-09-29 10:06:45 -0700","Gates Wheeler
+4110 Beach Dr SW
+Seattle, WA 98116-3526
 United States of America
-7327406263","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508235","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
+6178387775","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6515186","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650940","70","kickstarter","125563","Rebecca Dore","buggyloveone@gmail.com","Rebecca Dore","78 North Court Box #363","","Scotia","CA","US","95565","7076170892","279.0","collected","","","2017-08-15 09:04:52 -0700","2017-09-28 15:33:57 -0700","Rebecca Dore
 78 North Court Box #363
 Scotia, CA 95565
 United States of America
 7076170892","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508064","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+"8650939","71","kickstarter","125563","Dan Hillmann","cardan0023@gmail.com","Daniel Hillmann","159 Sherwood Dr","","Freehold","NJ","US","07728-1326","7327406263","279.0","collected","","","2017-08-15 09:05:46 -0700","2017-09-29 03:34:40 -0700","Daniel Hillmann
+159 Sherwood Dr
+Freehold, NJ 07728-1326
+United States of America
+7327406263","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508235","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8650941","72","kickstarter","125565","Sean Loving","seanloving@yahoo.com","Sean Loving","1631 Haiku Rd","","Haiku","HI","US","96708-5614","3037171441","299.0","collected","","","2017-08-15 09:08:01 -0700","2017-09-28 16:04:08 -0700","Sean Loving
 1631 Haiku Rd
 Haiku, HI 96708-5614
@@ -360,11 +355,6 @@ United States of America
 Kissimmee, FL 34746-3603
 United States of America
 3214022544","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508520","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
-"8650944","78","kickstarter","125565","Michael Gold","mcgold900@yahoo.com","Michael Gold","8921 Ellis St","","Arvada","CO","US","80005-5948","7209383258","299.0","collected","","","2017-08-15 09:11:51 -0700","2017-09-28 20:34:49 -0700","Michael Gold
-8921 Ellis St
-Arvada, CO 80005-5948
-United States of America
-7209383258","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6510092","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8650945","76","kickstarter","125573","","lax78mom@yahoo.com","Melissa King","1004 Mars Hill Rd NW","","Acworth","GA","US","30101-4655","7704014368","529.0","collected","","","2017-08-15 09:10:59 -0700","2017-09-29 05:06:43 -0700","Melissa King
 1004 Mars Hill Rd NW
 Acworth, GA 30101-4655
@@ -375,37 +365,47 @@ United States of America
 Salt Lake City, UT 84108-2636
 United States of America
 8017107046","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6518699","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+"8650944","78","kickstarter","125565","Michael Gold","mcgold900@yahoo.com","Michael Gold","8921 Ellis St","","Arvada","CO","US","80005-5948","7209383258","299.0","collected","","","2017-08-15 09:11:51 -0700","2017-09-28 20:34:49 -0700","Michael Gold
+8921 Ellis St
+Arvada, CO 80005-5948
+United States of America
+7209383258","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6510092","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8650947","79","kickstarter","125565","Lucas Lowe","downlowiss@gmail.com","Lucas Lowe","345 S Cherry Ave","","Tucson","AZ","US","85719-6235","15205612124","299.0","collected","","","2017-08-15 09:15:20 -0700","2017-09-28 15:35:46 -0700","Lucas Lowe
 345 S Cherry Ave
 Tucson, AZ 85719-6235
 United States of America
 15205612124","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508081","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
+"8650915","80","kickstarter","125565","Madi Davis (Canceled)","canceled+mermaidmadee@gmail.comcanceled","","","","","","","","","0.0","failed"," Marked As Canceled on 2017-10-07","","2017-08-15 09:15:50 -0700","","
+
+,  
+
+","","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","","","survey_not_answered","","","0.0","0","0.0","0.0","1","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
 "8650948","81","kickstarter","125563","Kyle Johnson","kylerichjohn@gmail.com","Kyle Richard Johnson","200 Mississippi St NE","","Minneapolis","MN","US","55432-4321","6128174410","279.0","collected","","","2017-08-15 09:16:48 -0700","2017-10-12 06:43:29 -0700","Kyle Richard Johnson
 200 Mississippi St NE
 Minneapolis, MN 55432-4321
 United States of America
 6128174410","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/12/17","6631636","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
-"8650949","85","kickstarter","125565","Christopher Sower","skibum_777@hotmail.com","Christopher Todd Sower","2481 Oak Valley Dr Apt 101","","Ann Arbor","MI","US","48103-9173","801-232-7826","299.0","collected","","","2017-08-15 09:20:18 -0700","2017-10-01 16:52:57 -0700","Christopher Todd Sower
-2481 Oak Valley Dr Apt 101
-Ann Arbor, MI 48103-9173
-United States of America
-801-232-7826","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/01/17","6539281","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
-"8650950","84","kickstarter","125563","Kathy Wu","reptilexing@yahoo.com","Kathy Wu","2017 Mineral Point Ave","","Janesville","WI","US","53548-3454","608-346-4203","279.0","collected","","","2017-08-15 09:20:11 -0700","2017-10-01 16:40:20 -0700","Kathy Wu
-2017 Mineral Point Ave
-Janesville, WI 53548-3454
-United States of America
-608-346-4203","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6538997","paid","10/17/17","ch_1BE2n6FJMiS2mk7EoUuU9cm7","22.0","3.0","30.0","301.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8650951","82","kickstarter","125565","","greenberg.alec@gmail.com","Alec Greenberg","415 Leonard St","Apt 3H","Brooklyn","NY","US","11222-3945","6462757550","299.0","collected","","","2017-08-15 09:18:35 -0700","2017-09-28 17:20:45 -0700","Alec Greenberg
 415 Leonard St
 Apt 3H
 Brooklyn, NY 11222-3945
 United States of America
 6462757550","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508924","paid","10/17/17","ch_1BE2n2FJMiS2mk7ERL2434VQ","4.0","0","30.0","303.0","0","1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1"
-"8650952","83","kickstarter","125563","Danielle OHAre","dohare86@gmail.com","Danielle O'Hare ","2512 NW Summerhill Dr","","Bend","OR","US","97703-5295","5419771194","279.0","collected","","","2017-08-15 09:19:04 -0700","2017-09-29 08:06:57 -0700","Danielle O'Hare 
-2512 NW Summerhill Dr
-Bend, OR 97703-5295
+"8650952","83","kickstarter","125563","Danielle OHAre","dohare86@gmail.com","Danielle O'Hare ","19292 Kiowa Rd","","Bend","OR","US","97702-8986","5419771194","279.0","collected","","","2017-08-15 09:19:04 -0700","2017-09-29 08:06:57 -0700","Danielle O'Hare 
+19292 Kiowa Rd
+Bend, OR 97702-8986
 United States of America
 5419771194","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6513034","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
+"8650950","84","kickstarter","125563","Kathy Wu","reptilexing@yahoo.com","Kathy Wu","2017 Mineral Point Ave","","Janesville","WI","US","53548-3454","608-346-4203","279.0","collected","","","2017-08-15 09:20:11 -0700","2017-10-01 16:40:20 -0700","Kathy Wu
+2017 Mineral Point Ave
+Janesville, WI 53548-3454
+United States of America
+608-346-4203","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6538997","paid","10/17/17","ch_1BE2n6FJMiS2mk7EoUuU9cm7","22.0","3.0","30.0","301.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+"8650949","85","kickstarter","125565","Christopher Sower","skibum_777@hotmail.com","Christopher Todd Sower","2481 Oak Valley Dr Apt 101","","Ann Arbor","MI","US","48103-9173","801-232-7826","299.0","collected","","","2017-08-15 09:20:18 -0700","2017-10-01 16:52:57 -0700","Christopher Todd Sower
+2481 Oak Valley Dr Apt 101
+Ann Arbor, MI 48103-9173
+United States of America
+801-232-7826","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/01/17","6539281","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8650953","86","kickstarter","125565","Robert Siefken","rob@excitedeye.com","Robert siefken","124 Lincoln St","","Longmont","CO","US","80501-5832","13037721705","299.0","collected","","","2017-08-15 09:21:20 -0700","2017-10-05 08:07:13 -0700","Robert siefken
 124 Lincoln St
 Longmont, CO 80501-5832
@@ -431,11 +431,6 @@ Unit 3440 Box 284
 DPO, AA 34020-0284
 United States of America
 01150685215212","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/05/17","6583596","paid","10/17/17","ch_1BE2n8FJMiS2mk7EuOWAbWGp","44.0","6.0","30.0","343.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","2","0","0","0","0","0","0","0","0","1","0","0","0"
-"8650958","116","kickstarter","125563","Eric","arieshorns27@gmail.com","Eric D. Martinez","8423 Boer Ave","","Whittier","CA","US","90606-3213","5626391253","279.0","collected","","","2017-08-15 10:27:28 -0700","2017-09-29 09:18:47 -0700","Eric D. Martinez
-8423 Boer Ave
-Whittier, CA 90606-3213
-United States of America
-5626391253","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509410","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
 "8650959","91","kickstarter","125563","Raimond ranne","ranne@comcast.net","Raimond Ranne","8140 W Farragut Ave","","Chicago","IL","US","60656-1537","7734101034","279.0","collected","","","2017-08-15 09:29:38 -0700","2017-09-28 15:47:37 -0700","Raimond Ranne
 8140 W Farragut Ave
 Chicago, IL 60656-1537
@@ -446,31 +441,31 @@ United States of America
 Upland, CA 91786-3939
 United States of America
 9099088743","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508432","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
-"8650961","97","kickstarter","125565","Heather Crawford","peaches1107@hotmail.com","Heather Crawford ","4510 High Sierra","","Abilene","TX","US","79606-6505","6053935903","299.0","collected","","","2017-08-15 09:44:42 -0700","2017-10-12 15:38:13 -0700","Heather Crawford 
-4510 High Sierra
-Abilene, TX 79606-6505
-United States of America
-6053935903","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512375","paid","10/23/17","ch_1BGIbMFJMiS2mk7EuD2ijH8i","68.0","6.0","30.0","367.0","0","1","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8650962","93","kickstarter","125565","Daniel Bigelow","drbigelow1@gmail.com","Daniel Bigelow","29123 Highplains Ct","","Castaic","CA","US","91384-3563","6613137327","299.0","collected","","","2017-08-15 09:37:47 -0700","2017-09-28 20:37:46 -0700","Daniel Bigelow
 29123 Highplains Ct
 Castaic, CA 91384-3563
 United States of America
 6613137327","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6510094","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
-"8650963","95","kickstarter","125568","","rebeccarose888@gmail.com","Rebecca Harrell","224 Harold Ross Ct","","Aspen","CO","US","81611-3244","3036679823","309.0","collected","","","2017-08-15 09:41:32 -0700","2017-10-01 10:41:07 -0700","Rebecca Harrell
-224 Harold Ross Ct
-Aspen, CO 81611-3244
-United States of America
-3036679823","United States of America","279.0","RollR 60 | Early Bird - Get The RollR 60 at 30% OFF! Retail: $399 You Save: $120 You will choose your color after the campaign is over.","10/01/17","6531781","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8650964","94","kickstarter","125563","scott perez","smperez89@gmail.com","Scott Perez","165 stillwold drive","","Wethersfield","CT","US","06109","8609894270","279.0","collected","","","2017-08-15 09:38:48 -0700","2017-09-28 19:48:38 -0700","Scott Perez
 165 stillwold drive
 Wethersfield, CT 06109
 United States of America
 8609894270","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509844","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
+"8650963","95","kickstarter","125568","","rebeccarose888@gmail.com","Rebecca Harrell","224 Harold Ross Ct","","Aspen","CO","US","81611-3244","3036679823","309.0","collected","","","2017-08-15 09:41:32 -0700","2017-10-01 10:41:07 -0700","Rebecca Harrell
+224 Harold Ross Ct
+Aspen, CO 81611-3244
+United States of America
+3036679823","United States of America","279.0","RollR 60 | Early Bird - Get The RollR 60 at 30% OFF! Retail: $399 You Save: $120 You will choose your color after the campaign is over.","10/01/17","6531781","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8650965","96","kickstarter","125565","Stephanie Seale","stephanieseale@me.com","Stephanie Seale","2829 S Lakeline Blvd Unit 1114","","Cedar Park","TX","US","78613-1802","2818511744","299.0","collected","","","2017-08-15 09:43:30 -0700","2017-09-28 19:22:23 -0700","Stephanie Seale
 2829 S Lakeline Blvd Unit 1114
 Cedar Park, TX 78613-1802
 United States of America
 2818511744","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6509679","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
+"8650961","97","kickstarter","125565","Heather Crawford","peaches1107@hotmail.com","Heather Crawford ","4510 High Sierra","","Abilene","TX","US","79606-6505","6053935903","299.0","collected","","","2017-08-15 09:44:42 -0700","2017-10-12 15:38:13 -0700","Heather Crawford 
+4510 High Sierra
+Abilene, TX 79606-6505
+United States of America
+6053935903","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512375","paid","10/23/17","ch_1BGIbMFJMiS2mk7EuD2ijH8i","68.0","6.0","30.0","367.0","0","1","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8650966","99","kickstarter","125563","Alexander Gerlach","thesenatooor@gmail.com","Alexander Gerlach","240 Ionia Ave SW Apt 603","","Grand Rapids","MI","US","49503-3115","6165604772","279.0","collected","","","2017-08-15 09:50:32 -0700","2017-09-30 19:56:57 -0700","Alexander Gerlach
 240 Ionia Ave SW Apt 603
 Grand Rapids, MI 49503-3115
@@ -481,16 +476,16 @@ United States of America
 Warrensburg, NY 12885-1015
 United States of America
 5189329951","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6509040","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
-"8650968","102","kickstarter","125563","","zoopan24@gmail.com","Wyatt Zupan ","491 State Highway 354","","Daniel","WY","US","83115-8815","4064518197","279.0","collected","","","2017-08-15 09:54:43 -0700","2017-09-29 06:31:20 -0700","Wyatt Zupan 
-491 State Highway 354
-Daniel, WY 83115-8815
-United States of America
-4064518197","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6512501","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8650969","101","kickstarter","125565","Cacie Justice Robichaux","cacie.robichaux@gmail.com","Cacie Robichaux","7767 Bunbury Ct","","Verona","WI","US","53593-9570","9857590084","299.0","collected","","","2017-08-15 09:51:29 -0700","2017-09-28 16:55:44 -0700","Cacie Robichaux
 7767 Bunbury Ct
 Verona, WI 53593-9570
 United States of America
 9857590084","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508714","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
+"8650968","102","kickstarter","125563","","zoopan24@gmail.com","Wyatt Zupan ","491 State Highway 354","","Daniel","WY","US","83115-8815","4064518197","279.0","collected","","","2017-08-15 09:54:43 -0700","2017-09-29 06:31:20 -0700","Wyatt Zupan 
+491 State Highway 354
+Daniel, WY 83115-8815
+United States of America
+4064518197","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6512501","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8650970","103","kickstarter","125565","Snow Aubel","geopupps@gmail.com","Snow Aubel","1330 W Gail Dr","","Chandler","AZ","US","85224-8644","6234512358","299.0","collected","","","2017-08-15 09:56:04 -0700","2017-09-30 00:25:43 -0700","Snow Aubel
 1330 W Gail Dr
 Chandler, AZ 85224-8644
@@ -506,16 +501,16 @@ United States of America
 Santa Cruz, CA 95065-1103
 United States of America
 8312476105","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509116","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8650973","107","kickstarter","125573","Mark Caven","markcavenii@gmail.com","Mark Caven","430 S Midland Ave","","Joliet","IL","US","60436-1906","8154095960","529.0","collected","","","2017-08-15 10:02:38 -0700","2017-09-29 13:34:34 -0700","Mark Caven
-430 S Midland Ave
-Joliet, IL 60436-1906
-United States of America
-8154095960","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","09/29/17","6519346","locked_down","","","0.0","0","60.0","529.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","1","1","0","0","0","0","0","0","0","0"
 "8650974","106","kickstarter","125565","Amy Ehret","ame525@aol.com","Amy Ehret","424 S 47th St","","Belleville","IL","US","62226-4604","6187912517","299.0","collected","","","2017-08-15 10:02:05 -0700","2017-10-01 09:06:54 -0700","Amy Ehret
 424 S 47th St
 Belleville, IL 62226-4604
 United States of America
 6187912517","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/01/17","6530173","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
+"8650973","107","kickstarter","125573","Mark Caven","markcavenii@gmail.com","Mark Caven","430 S Midland Ave","","Joliet","IL","US","60436-1906","8154095960","529.0","collected","","","2017-08-15 10:02:38 -0700","2017-09-29 13:34:34 -0700","Mark Caven
+430 S Midland Ave
+Joliet, IL 60436-1906
+United States of America
+8154095960","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","09/29/17","6519346","locked_down","","","0.0","0","60.0","529.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","1","1","0","0","0","0","0","0","0","0"
 "8650975","108","kickstarter","125563","Emily Alewine","wine4232@gmail.com","Emily Alewine","2269 Brewster St","","Saint Paul","MN","US","55108-2021","6513610941","279.0","collected","","","2017-08-15 10:03:20 -0700","2017-09-29 06:20:32 -0700","Emily Alewine
 2269 Brewster St
 Saint Paul, MN 55108-2021
@@ -556,6 +551,11 @@ United States of America
 Centennial, CO 80122
 United States of America
 7202970102","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6510173","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
+"8650958","116","kickstarter","125563","Eric","arieshorns27@gmail.com","Eric D. Martinez","8423 Boer Ave","","Whittier","CA","US","90606-3213","5626391253","279.0","collected","","","2017-08-15 10:27:28 -0700","2017-09-29 09:18:47 -0700","Eric D. Martinez
+8423 Boer Ave
+Whittier, CA 90606-3213
+United States of America
+5626391253","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509410","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
 "8650983","117","kickstarter","125563","Rosemary Lee","sr.lee@sbcglobal.net","Rosemary Lee","1075 Sunshine Cir","","Danville","CA","US","94506-4424","7073314948","279.0","collected","","","2017-08-15 10:32:23 -0700","2017-10-15 12:26:50 -0700","Rosemary Lee
 1075 Sunshine Cir
 Danville, CA 94506-4424
@@ -566,6 +566,11 @@ United States of America
 Boulder, CO 80305-3302
 United States of America
 3032534985","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6522483","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
+"8650987","119","kickstarter","125577","Phyllis Blackman Hurwitz","fitnessbyphyllis@gmail.com","","","","","","","","","0.0","failed","","","2017-08-15 10:35:20 -0700","","
+
+,  
+
+","","0.0","Backers in this tier chose not to receive a reward","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
 "8650985","120","kickstarter","125565","James Reynoso","paulreynoso878@hotmail.com","James Reynoso","3338 Ticonderoga Ave","","Lemoore ","CA","US","93245","7576355480","299.0","collected","","","2017-08-15 10:36:42 -0700","2017-09-29 00:19:59 -0700","James Reynoso
 3338 Ticonderoga Ave
 Lemoore , CA 93245
@@ -576,26 +581,21 @@ United States of America
 Scottdale, PA 15683-9582
 United States of America
 7246191234","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508330","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8650987","119","kickstarter","125577","Phyllis Blackman Hurwitz","fitnessbyphyllis@gmail.com","","","","","","","","","0.0","failed","","","2017-08-15 10:35:20 -0700","","
-
-,  
-
-","","0.0","Backers in this tier chose not to receive a reward","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
 "8650988","122","kickstarter","125563","Alison Eustice","shmaliski@me.com","Alison Eustice","1219 N Corona St","","Colorado Springs","CO","US","80903-2505","7193316571","279.0","collected","","","2017-08-15 10:37:49 -0700","2017-10-02 05:32:48 -0700","Alison Eustice
 1219 N Corona St
 Colorado Springs, CO 80903-2505
 United States of America
 7193316571","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/02/17","6550510","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
-"8650989","124","kickstarter","125565","Chris McCormack","cjm1347@gmail.com","Chris McCormack","14 Greens Point Rd","","Ipswich","MA","US","01938-1340","5089320710","299.0","collected","","","2017-08-15 10:45:41 -0700","2017-09-30 20:53:16 -0700","Chris McCormack
-14 Greens Point Rd
-Ipswich, MA 01938-1340
-United States of America
-5089320710","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/30/17","6527714","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650990","123","kickstarter","125563","Robert Lubbers","lubytoons@gmail.com","Robert Lubbers","14 Seneca Rd","","Sea Ranch Lakes","FL","US","33308-2303","9542547103","279.0","collected","","","2017-08-15 10:44:10 -0700","2017-09-30 01:42:22 -0700","Robert Lubbers
 14 Seneca Rd
 Sea Ranch Lakes, FL 33308-2303
 United States of America
 9542547103","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/30/17","6523399","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+"8650989","124","kickstarter","125565","Chris McCormack","cjm1347@gmail.com","Chris McCormack","14 Greens Point Rd","","Ipswich","MA","US","01938-1340","5089320710","299.0","collected","","","2017-08-15 10:45:41 -0700","2017-09-30 20:53:16 -0700","Chris McCormack
+14 Greens Point Rd
+Ipswich, MA 01938-1340
+United States of America
+5089320710","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/30/17","6527714","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8650991","125","kickstarter","125565","Kim","kimihigh@me.com","","","","","","US","","","0.0","failed","","","2017-08-15 10:47:03 -0700","","
 
 ,  
@@ -616,26 +616,26 @@ United States of America
 Denver, CO 80212-1730
 United States of America
 3039638102","United States of America","519.0","BikR Kit | Two Pack - Get The RollR 60 (x2) and Bike Attachment (x2) at 43% OFF! Retail: $908 You Save: $389 You will choose your color after the campaign is over.","10/02/17","6557551","locked_down","","","0.0","0","60.0","579.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","0","0","0","0","0","1","1","0","0","0"
-"8650995","131","kickstarter","125565","Mitzi Briggs","mitzimcbriggs@gmail.com","Mitzi Briggs","3607 N 36th St","","Boise","ID","US","83703-4615","2084409055","299.0","collected","","","2017-08-15 11:09:36 -0700","2017-10-01 18:47:49 -0700","Mitzi Briggs
-3607 N 36th St
-Boise, ID 83703-4615
-United States of America
-2084409055","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/01/17","6541281","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
-"8650996","130","kickstarter","125565","Megan james","lilikoi11@yahoo.com","Megan James","193 Nugget Hill Rd","","Jamestown","CO","US","80455","6303639779","299.0","collected","","","2017-08-15 11:09:18 -0700","2017-09-29 06:38:15 -0700","Megan James
-193 Nugget Hill Rd
-Jamestown, CO 80455
-United States of America
-6303639779","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512543","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
-"8650997","132","kickstarter","125565","Kesha","rkapaza@gmail.com","Kesha Burch","302 Lathrop Ave","","River Forest","IL","US","60305-2122","8479518307","299.0","collected","","","2017-08-15 11:11:01 -0700","2017-10-01 09:11:49 -0700","Kesha Burch
-302 Lathrop Ave
-River Forest, IL 60305-2122
-United States of America
-8479518307","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/01/17","6530240","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
 "8650998","129","kickstarter","125565","Jamie harris","nomadlink@hotmail.com","Jameson Harris ","23215 Sherman Way Unit D","","West Hills","CA","US","91307-1432","7607091047","299.0","collected","","","2017-08-15 11:06:11 -0700","2017-10-15 18:14:37 -0700","Jameson Harris 
 23215 Sherman Way Unit D
 West Hills, CA 91307-1432
 United States of America
 7607091047","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/10/17","6613769","open","","","22.0","3.0","30.0","321.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
+"8650996","130","kickstarter","125565","Megan james","lilikoi11@yahoo.com","Megan James","193 Nugget Hill Rd","","Jamestown","CO","US","80455","6303639779","299.0","collected","","","2017-08-15 11:09:18 -0700","2017-09-29 06:38:15 -0700","Megan James
+193 Nugget Hill Rd
+Jamestown, CO 80455
+United States of America
+6303639779","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6512543","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
+"8650995","131","kickstarter","125565","Mitzi Briggs","mitzimcbriggs@gmail.com","Mitzi Briggs","3607 N 36th St","","Boise","ID","US","83703-4615","2084409055","299.0","collected","","","2017-08-15 11:09:36 -0700","2017-10-01 18:47:49 -0700","Mitzi Briggs
+3607 N 36th St
+Boise, ID 83703-4615
+United States of America
+2084409055","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/01/17","6541281","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
+"8650997","132","kickstarter","125565","Kesha","rkapaza@gmail.com","Kesha Burch","302 Lathrop Ave","","River Forest","IL","US","60305-2122","8479518307","299.0","collected","","","2017-08-15 11:11:01 -0700","2017-10-01 09:11:49 -0700","Kesha Burch
+302 Lathrop Ave
+River Forest, IL 60305-2122
+United States of America
+8479518307","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/01/17","6530240","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
 "8650999","133","kickstarter","125563","christine nash","crunchy@mutaytor.com","christine nash","651 Clover St","big art labs","los angeles","CA","US","90031","213-718-7374","279.0","collected","","","2017-08-15 11:14:14 -0700","2017-09-28 15:33:19 -0700","christine nash
 651 Clover St
 big art labs
@@ -647,9 +647,9 @@ United States of America
 Oakland City, IN 47660-1347
 United States of America
 8126320415","United States of America","279.0","RollR 60 | Early Bird - Get The RollR 60 at 30% OFF! Retail: $399 You Save: $120 You will choose your color after the campaign is over.","10/01/17","6529657","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
-"8651001","135","kickstarter","125565","Kelly Sullivan","galwaygirl815@gmail.com","Kelly Sullivan","18903 E Briargate Ln Apt 2A","","Parker","CO","US","80134-3642","2088719167","300.0","collected","","","2017-08-15 11:22:54 -0700","2017-09-28 16:37:06 -0700","Kelly Sullivan
-18903 E Briargate Ln Apt 2A
-Parker, CO 80134-3642
+"8651001","135","kickstarter","125565","Kelly Sullivan","galwaygirl815@gmail.com","Kelly Sullivan","123 N Rockfern Ct","","Spring","TX","US","77380","2088719167","300.0","collected","","","2017-08-15 11:22:54 -0700","2017-09-28 16:37:06 -0700","Kelly Sullivan
+123 N Rockfern Ct
+Spring, TX 77380
 United States of America
 2088719167","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508576","locked_down","","","0.0","0","30.0","300.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
 "8651002","136","kickstarter","125565","","erikaweich@me.com","Erika Weich","2880 21st St","","Boulder","CO","US","80304-2708","7204804862","299.0","collected","","","2017-08-15 11:25:43 -0700","2017-10-05 16:12:24 -0700","Erika Weich
@@ -667,16 +667,16 @@ United States of America
 Oroville, CA 95966-7809
 United States of America
 5303210169","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508047","paid","10/17/17","ch_1BE2n2FJMiS2mk7EXWqvpm5y","34.0","5.0","30.0","313.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
-"8651005","141","kickstarter","125563","Patrick benavides","greyion22@gmail.com","Patrick Benavides","1425 Gross Rd Ste 111","","Mesquite","TX","US","75149-1365","2145638091","279.0","collected","","","2017-08-15 11:50:37 -0700","2017-09-28 18:56:25 -0700","Patrick Benavides
-1425 Gross Rd Ste 111
-Mesquite, TX 75149-1365
-United States of America
-2145638091","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509470","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651006","140","kickstarter","125563","Nathaniel Warren","fargowoodchuck@icloud.com","Nate Warren","1418 1st Ave N","","Fargo","ND","US","58102-4204","7012326876","279.0","collected","","","2017-08-15 11:49:34 -0700","2017-09-29 02:24:04 -0700","Nate Warren
 1418 1st Ave N
 Fargo, ND 58102-4204
 United States of America
 7012326876","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6511405","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+"8651005","141","kickstarter","125563","Patrick benavides","greyion22@gmail.com","Patrick Benavides","1425 Gross Rd Ste 111","","Mesquite","TX","US","75149-1365","2145638091","279.0","collected","","","2017-08-15 11:50:37 -0700","2017-09-28 18:56:25 -0700","Patrick Benavides
+1425 Gross Rd Ste 111
+Mesquite, TX 75149-1365
+United States of America
+2145638091","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509470","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651007","142","kickstarter","125565","Justin Walters","justinwalters13@gmail.com","Justin Lee Walters","3500 Rockmont Dr ","Apt 4306","Denver","CO","US","80202-2090","3036014749","299.0","collected","","","2017-08-15 11:53:19 -0700","2017-09-28 15:37:10 -0700","Justin Lee Walters
 3500 Rockmont Dr 
 Apt 4306
@@ -733,21 +733,16 @@ United States of America
 Wakefield, RI 02879-3150
 United States of America
 4014513452","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508328","paid","10/17/17","ch_1BE2n2FJMiS2mk7EQoh3EEbD","26.0","3.0","30.0","305.0","0","1","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8651018","154","kickstarter","125565","DeLee Smith","delee.i.smith@gmail.com","DeLee Smith","4820 Delaware St","","College Park","MD","US","20740-1866","301-254-0365","299.0","collected","","","2017-08-15 13:15:27 -0700","2017-10-05 19:41:24 -0700","DeLee Smith
-4820 Delaware St
-College Park, MD 20740-1866
-United States of America
-301-254-0365","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/05/17","6591469","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
 "8651019","153","kickstarter","125576","Dave Kennedy","dkennedy@abacusventures.com","Dave Kennedy","1686 Sunset Blvd","","Boulder","CO","US","80304-4234","3039901502","1119.0","collected","","","2017-08-15 13:14:45 -0700","2017-10-19 08:23:13 -0700","Dave Kennedy
 1686 Sunset Blvd
 Boulder, CO 80304-4234
 United States of America
 3039901502","United States of America","999.0","BikR Kit | Four Pack - Get The RollR 60 (x4) and Bike Attachment (x4) at 45% OFF! Retail: $1816 You Save: $817 You will choose your color after the campaign is over.","10/19/17","6671827","open","","","160.0","20.0","120.0","1279.0","1","0","0","0","0","0","0","0","0","0","0","0","3","0","0","0","5","0","1","0","0","0","0","0","2","2","0","0","0"
-"8651020","157","kickstarter","125563","","michael@parsonslawgroup.com","michael parsons ","2903 Arden Rd NW","","Atlanta","GA","US","30327-1263","+14044445797 ","279.0","collected","","","2017-08-15 13:25:31 -0700","2017-10-05 07:21:12 -0700","michael parsons 
-2903 Arden Rd NW
-Atlanta, GA 30327-1263
+"8651018","154","kickstarter","125565","DeLee Smith","delee.i.smith@gmail.com","DeLee Smith","4820 Delaware St","","College Park","MD","US","20740-1866","301-254-0365","299.0","collected","","","2017-08-15 13:15:27 -0700","2017-10-05 19:41:24 -0700","DeLee Smith
+4820 Delaware St
+College Park, MD 20740-1866
 United States of America
-+14044445797 ","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/05/17","6581427","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
+301-254-0365","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/05/17","6591469","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
 "8651021","155","kickstarter","125577","Matt McCoy","miaheatfan9@gmail.com","","","","","","","","","1.0","collected","","","2017-08-15 13:24:32 -0700","","
 
 ,  
@@ -758,6 +753,11 @@ United States of America
 ,  
 
 ","","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
+"8651020","157","kickstarter","125563","","michael@parsonslawgroup.com","michael parsons ","2903 Arden Rd NW","","Atlanta","GA","US","30327-1263","+14044445797 ","279.0","collected","","","2017-08-15 13:25:31 -0700","2017-10-05 07:21:12 -0700","michael parsons 
+2903 Arden Rd NW
+Atlanta, GA 30327-1263
+United States of America
++14044445797 ","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/05/17","6581427","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
 "8651023","158","kickstarter","125563","Jerry Krueger","jerrykruegs@gmail.com","Jerold Krueger ","W989 Prairie Dr","","Markesan","WI","US","53946-7534","9202106294","279.0","collected","","","2017-08-15 13:30:39 -0700","2017-09-28 15:43:13 -0700","Jerold Krueger 
 W989 Prairie Dr
 Markesan, WI 53946-7534
@@ -784,21 +784,21 @@ United States of America
 Columbus, OH 43214-1880
 United States of America
 6143772822","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/02/17","6558617","paid","10/17/17","ch_1BE2n7FJMiS2mk7E9QC7xGgZ","39.0","6.0","30.0","318.0","0","1","0","0","1","0","0","1","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
-"8651028","165","kickstarter","125563","","jeanetteje@yahoo.com","Jeanette Edwards","200 Annabel Ln","","Fort Collins","CO","US","80525-2547","19702319691","279.0","collected","","","2017-08-15 14:00:37 -0700","2017-10-05 15:54:52 -0700","Jeanette Edwards
-200 Annabel Ln
-Fort Collins, CO 80525-2547
-United States of America
-19702319691","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6516323","paid","10/17/17","ch_1BE2n3FJMiS2mk7EBrFrgo17","22.0","3.0","30.0","301.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
-"8651029","164","kickstarter","125573","Dorothy DeFrancia","markeroak@mac.com","Dorothy Golden Defrancia","9621 Georgetown Pike","","Great Falls","VA","US","22066-2619","7038190212","529.0","collected","","","2017-08-15 13:59:30 -0700","2017-10-01 08:34:15 -0700","Dorothy Golden Defrancia
-9621 Georgetown Pike
-Great Falls, VA 22066-2619
-United States of America
-7038190212","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","10/01/17","6529686","paid","10/17/17","ch_1BE2n3FJMiS2mk7Ekg7wxGVf","130.0","15.0","60.0","659.0","0","0","0","0","2","0","0","0","0","1","0","0","0","0","0","0","4","0","0","0","0","0","1","1","0","0","0","0","0"
 "8651030","163","kickstarter","125565","Brandon Barber","brandon3910@yahoo.com","Brandon Barber","916 Monroe Way","","Superior","CO","US","80027-8179","972-489-9141","299.0","collected","","","2017-08-15 13:59:24 -0700","2017-10-16 16:22:47 -0700","Brandon Barber
 916 Monroe Way
 Superior, CO 80027-8179
 United States of America
 972-489-9141","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/29/17","6513525","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
+"8651029","164","kickstarter","125573","Dorothy DeFrancia","markeroak@mac.com","Dorothy Golden Defrancia","9621 Georgetown Pike","","Great Falls","VA","US","22066-2619","7038190212","529.0","collected","","","2017-08-15 13:59:30 -0700","2017-10-01 08:34:15 -0700","Dorothy Golden Defrancia
+9621 Georgetown Pike
+Great Falls, VA 22066-2619
+United States of America
+7038190212","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","10/01/17","6529686","paid","10/17/17","ch_1BE2n3FJMiS2mk7Ekg7wxGVf","130.0","15.0","60.0","659.0","0","0","0","0","2","0","0","0","0","1","0","0","0","0","0","0","4","0","0","0","0","0","1","1","0","0","0","0","0"
+"8651028","165","kickstarter","125563","","jeanetteje@yahoo.com","Jeanette Edwards","200 Annabel Ln","","Fort Collins","CO","US","80525-2547","19702319691","279.0","collected","","","2017-08-15 14:00:37 -0700","2017-10-05 15:54:52 -0700","Jeanette Edwards
+200 Annabel Ln
+Fort Collins, CO 80525-2547
+United States of America
+19702319691","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6516323","paid","10/17/17","ch_1BE2n3FJMiS2mk7EBrFrgo17","22.0","3.0","30.0","301.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8651031","166","kickstarter","125565","Eric H Haug","loope67@yahoo.com","Eric Haug","619 Jefferson Dr","","Palmyra","VA","US","22963-3035","4349600358","299.0","collected","","","2017-08-15 14:03:23 -0700","2017-09-28 17:53:55 -0700","Eric Haug
 619 Jefferson Dr
 Palmyra, VA 22963-3035
@@ -819,11 +819,6 @@ United States of America
 Truckee, CA 96161-1536
 United States of America
 5303864886","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/06/17","6595402","paid","10/17/17","ch_1BE2n7FJMiS2mk7EsbNu5zI8","34.0","5.0","30.0","313.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
-"8651035","185","kickstarter","125573","Jaime Gutierrez","jaimeg@aemf.org","David Melbye","28216 Canterbury Ct","","Valencia","CA","US","91354-1117","818-259-4107","529.0","collected","","","2017-08-15 15:50:05 -0700","2017-09-28 15:42:43 -0700","David Melbye
-28216 Canterbury Ct
-Valencia, CA 91354-1117
-United States of America
-818-259-4107","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","09/28/17","6508155","locked_down","","","0.0","0","60.0","529.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","1","1","0","0","0","0","0","0","0","0"
 "8651036","171","kickstarter","125573","Matthew Osting","mattandjulieo@yahoo.com","Matt Osting","1612 Polo Club Ct","","Louisville","KY","US","40245-4482","5029305829","529.0","collected","","","2017-08-15 14:34:20 -0700","2017-11-04 12:16:09 -0700","Matt Osting
 1612 Polo Club Ct
 Louisville, KY 40245-4482
@@ -890,12 +885,17 @@ United States of America
 
 ,  
 
-","","0.0","Backers in this tier chose not to receive a reward","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
+","","0.0","Backers in this tier chose not to receive a reward","11/14/17","6849477","open","","","0.0","0","0.0","269.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
 "8651049","184","kickstarter","125568","","wezee50@yahoo.com","Matthew Huizar","8859 Belgian Fls","","San Antonio","TX","US","78254-4473","2107103191","309.0","collected","","","2017-08-15 15:41:54 -0700","2017-10-01 08:34:21 -0700","Matthew Huizar
 8859 Belgian Fls
 San Antonio, TX 78254-4473
 United States of America
 2107103191","United States of America","279.0","RollR 60 | Early Bird - Get The RollR 60 at 30% OFF! Retail: $399 You Save: $120 You will choose your color after the campaign is over.","09/28/17","6508214","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
+"8651035","185","kickstarter","125573","Jaime Gutierrez","jaimeg@aemf.org","David Melbye","28216 Canterbury Ct","","Valencia","CA","US","91354-1117","818-259-4107","529.0","collected","","","2017-08-15 15:50:05 -0700","2017-09-28 15:42:43 -0700","David Melbye
+28216 Canterbury Ct
+Valencia, CA 91354-1117
+United States of America
+818-259-4107","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","09/28/17","6508155","locked_down","","","0.0","0","60.0","529.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","1","1","0","0","0","0","0","0","0","0"
 "8651050","186","kickstarter","125565","David Precheur","harrydavep@gmail.com","Harry David Precheur","203 Flamingo Rd # 116","","Mill Valley","CA","US","94941-3603","4152253084","299.0","collected","","","2017-08-15 16:00:09 -0700","2017-09-29 19:04:35 -0700","Harry David Precheur
 203 Flamingo Rd # 116
 Mill Valley, CA 94941-3603
@@ -996,26 +996,26 @@ United States of America
 Scotts Valley, CA 95066
 United States of America
 7075270320","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6513734","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8651070","210","kickstarter","125563","Sam Blackledge","sun_n_snowluvr@yahoo.com","","","","","","US","","","279.0","collected","","","2017-08-15 17:47:33 -0700","","
-
-,  
-United States of America
-","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
 "8651071","209","kickstarter","125563","Joey Hamm","joeyhamm87@gmail.com","Joey Hamm","1133 Rivage Promenade","","Wilmington","NC","US","28412","9102320800","279.0","collected","","","2017-08-15 17:43:47 -0700","2017-09-28 17:06:02 -0700","Joey Hamm
 1133 Rivage Promenade
 Wilmington, NC 28412
 United States of America
 9102320800","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508807","paid","10/17/17","ch_1BE2n2FJMiS2mk7EquCmXUgy","48.0","6.0","30.0","327.0","0","1","0","0","1","0","0","0","0","0","0","0","0","0","0","0","2","0","0","0","0","1","0","0","0","0","0","0","0"
-"8651072","212","kickstarter","125563","Shannon van scotter","svanscotter42@gmail.com","Shannon Van Scotter","354 Grant St","","Longmont","CO","US","80501-5344","7203662945","279.0","collected","","","2017-08-15 17:53:46 -0700","2017-10-12 05:54:47 -0700","Shannon Van Scotter
-354 Grant St
-Longmont, CO 80501-5344
+"8651070","210","kickstarter","125563","Sam Blackledge","sun_n_snowluvr@yahoo.com","","","","","","US","","","279.0","collected","","","2017-08-15 17:47:33 -0700","","
+
+,  
 United States of America
-7203662945","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/12/17","6631210","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
 "8651073","211","kickstarter","125573","","rossini711@gmail.com","Tim Rossini","332 E Main St","","Marlborough","MA","US","01752-5400","5083801600","529.0","collected","","","2017-08-15 17:50:45 -0700","2017-09-29 07:27:44 -0700","Tim Rossini
 332 E Main St
 Marlborough, MA 01752-5400
 United States of America
 5083801600","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","09/29/17","6512822","locked_down","","","0.0","0","60.0","529.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","1","1","0","0","0","0","0","0","0","0"
+"8651072","212","kickstarter","125563","Shannon van scotter","svanscotter42@gmail.com","Shannon Van Scotter","354 Grant St","","Longmont","CO","US","80501-5344","7203662945","279.0","collected","","","2017-08-15 17:53:46 -0700","2017-10-12 05:54:47 -0700","Shannon Van Scotter
+354 Grant St
+Longmont, CO 80501-5344
+United States of America
+7203662945","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/12/17","6631210","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651074","213","kickstarter","125563","Chris tucker","c.tuckervet@yahoo.com","Chris Tucker","11356 Graceland Ln","","Frisco","TX","US","75033-0061","9728241272","279.0","collected","","","2017-08-15 17:55:49 -0700","2017-09-29 05:44:53 -0700","Chris Tucker
 11356 Graceland Ln
 Frisco, TX 75033-0061
@@ -1051,16 +1051,16 @@ United States of America
 Wilmington, NC 28405-8452
 United States of America
 7316765904","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6536608","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
-"8651081","221","kickstarter","125563","Jeremy Cronin","jcronin55@comcast.net","Jeremy Cronin","15 Highland Rd","","Boxford","MA","US","01921-1307","9788366078","279.0","collected","","","2017-08-15 18:25:47 -0700","2017-10-16 17:45:37 -0700","Jeremy Cronin
-15 Highland Rd
-Boxford, MA 01921-1307
-United States of America
-9788366078","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6511282","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
 "8651082","220","kickstarter","125563","Cindy Shuck","pakleader2007@yahoo.com","Cindy Shuck","1103 W 28th Pl","","Panama City","FL","US","32405-3401","8508550023","279.0","collected","","","2017-08-15 18:25:01 -0700","2017-09-29 14:45:22 -0700","Cindy Shuck
 1103 W 28th Pl
 Panama City, FL 32405-3401
 United States of America
 8508550023","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6520147","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
+"8651081","221","kickstarter","125563","Jeremy Cronin","jcronin55@comcast.net","Jeremy Cronin","15 Highland Rd","","Boxford","MA","US","01921-1307","9788366078","279.0","collected","","","2017-08-15 18:25:47 -0700","2017-10-16 17:45:37 -0700","Jeremy Cronin
+15 Highland Rd
+Boxford, MA 01921-1307
+United States of America
+9788366078","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6511282","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
 "8651083","222","kickstarter","125565","Cristina Domeier","isoscelestri@gmail.com","CRISTINA Domeier","347 NE 180th St","","Shoreline","WA","US","98155-3550","2068545981","299.0","collected","","","2017-08-15 18:26:14 -0700","2017-09-28 21:48:24 -0700","CRISTINA Domeier
 347 NE 180th St
 Shoreline, WA 98155-3550
@@ -1082,41 +1082,41 @@ United States of America
 Long Grove, IL 60047
 United States of America
 7732942675","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/02/17","6551556","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
-"8651087","228","kickstarter","125568","Irene Wagerman","swagerma@me.com","Irene Wagerman ","1442 Ebener St","","Redwood City","CA","US","94061-2911","6503333693 ","309.0","collected","","","2017-08-15 18:57:50 -0700","2017-09-28 16:57:44 -0700","Irene Wagerman 
-1442 Ebener St
-Redwood City, CA 94061-2911
-United States of America
-6503333693 ","United States of America","279.0","RollR 60 | Early Bird - Get The RollR 60 at 30% OFF! Retail: $399 You Save: $120 You will choose your color after the campaign is over.","09/28/17","6508325","paid","10/17/17","ch_1BE2n2FJMiS2mk7E35zCiM70","369.0","41.0","30.0","678.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","1","0","0","0","0","1","0","0","1","0","0","0"
 "8651088","226","kickstarter","125563","","spyderwilson@yahoo.com","Spyder Wilson ","14 Pauline Ct","","Rensselaer","NY","US","12144-9780","5183220590","279.0","collected","","","2017-08-15 18:50:39 -0700","2017-09-28 16:00:10 -0700","Spyder Wilson 
 14 Pauline Ct
 Rensselaer, NY 12144-9780
 United States of America
 5183220590","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508311","paid","10/17/17","ch_1BE2n2FJMiS2mk7EpFwjAlai","42.0","3.0","30.0","321.0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8651089","229","kickstarter","125563","Bobby Cart","bobbyartcart@gmail.com","Bobby Cart","7680 Holyoke Ave","","Hudson","OH","US","44236-1423","6147463133","279.0","collected","","","2017-08-15 19:00:58 -0700","2017-10-01 15:47:36 -0700","Bobby Cart
-7680 Holyoke Ave
-Hudson, OH 44236-1423
-United States of America
-6147463133","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6537694","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651090","227","kickstarter","125563","Andrew Michael","drew@drew-michael.com","Drew Michael","3730 Star Ln","","Boulder","CO","US","80301-3102","3039315088","279.0","collected","","","2017-08-15 18:57:45 -0700","2017-09-28 18:03:35 -0700","Drew Michael
 3730 Star Ln
 Boulder, CO 80301-3102
 United States of America
 3039315088","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6509156","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
+"8651087","228","kickstarter","125568","Irene Wagerman","swagerma@me.com","Irene Wagerman ","1442 Ebener St","","Redwood City","CA","US","94061-2911","6503333693 ","309.0","collected","","","2017-08-15 18:57:50 -0700","2017-09-28 16:57:44 -0700","Irene Wagerman 
+1442 Ebener St
+Redwood City, CA 94061-2911
+United States of America
+6503333693 ","United States of America","279.0","RollR 60 | Early Bird - Get The RollR 60 at 30% OFF! Retail: $399 You Save: $120 You will choose your color after the campaign is over.","09/28/17","6508325","paid","10/17/17","ch_1BE2n2FJMiS2mk7E35zCiM70","369.0","41.0","30.0","678.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","1","0","0","0","0","1","0","0","1","0","0","0"
+"8651089","229","kickstarter","125563","Bobby Cart","bobbyartcart@gmail.com","Bobby Cart","7680 Holyoke Ave","","Hudson","OH","US","44236-1423","6147463133","279.0","collected","","","2017-08-15 19:00:58 -0700","2017-10-01 15:47:36 -0700","Bobby Cart
+7680 Holyoke Ave
+Hudson, OH 44236-1423
+United States of America
+6147463133","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/01/17","6537694","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651091","231","kickstarter","125563","Eric Butler","ebutler2075@yahoo.com","Eric Butler","6243 Hardscrabble Rd","","Kill Buck","NY","US","14748-9718","7164983247","279.0","collected","","","2017-08-15 19:05:03 -0700","2017-10-12 07:45:36 -0700","Eric Butler
 6243 Hardscrabble Rd
 Kill Buck, NY 14748-9718
 United States of America
 7164983247","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/12/17","6631923","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
-"8651092","233","kickstarter","125563","Leah Marie","leahgemini@gmail.com","Leah  Maloney","1804 E 4th St","","Coal Valley","IL","US","61240-9816","3097983516","279.0","collected","","","2017-08-15 19:18:42 -0700","2017-10-04 18:59:41 -0700","Leah  Maloney
-1804 E 4th St
-Coal Valley, IL 61240-9816
-United States of America
-3097983516","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/04/17","6576051","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651093","232","kickstarter","125563","Brian Houchin","brian.houchin@gmail.com","Brian Houchin","1877 N Rock Rd","","Wichita","KS","US","67206-1260","13162507145","279.0","collected","","","2017-08-15 19:18:25 -0700","2017-09-28 16:34:47 -0700","Brian Houchin
 1877 N Rock Rd
 Wichita, KS 67206-1260
 United States of America
 13162507145","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6508558","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
+"8651092","233","kickstarter","125563","Leah Marie","leahgemini@gmail.com","Leah  Maloney","1804 E 4th St","","Coal Valley","IL","US","61240-9816","3097983516","279.0","collected","","","2017-08-15 19:18:42 -0700","2017-10-04 18:59:41 -0700","Leah  Maloney
+1804 E 4th St
+Coal Valley, IL 61240-9816
+United States of America
+3097983516","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/04/17","6576051","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651094","234","kickstarter","125563","Scott Record","onesticker@gmail.com","Scott Record","2578 Sigma Ct","","Orange Park","FL","US","32073-6028","9045346251","279.0","collected","","","2017-08-15 19:37:28 -0700","2017-10-16 15:47:21 -0700","Scott Record
 2578 Sigma Ct
 Orange Park, FL 32073-6028
@@ -1127,16 +1127,16 @@ United States of America
 Millbury, MA 01527-3237
 United States of America
 5082779677","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6507951","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
-"8651096","237","kickstarter","125565","Andrew Russell","a.russell902@hotmail.com","Andrew Russell","10508 Yolanda Ave","","Northridge","CA","US","91326-3152","8184263705","299.0","collected","","","2017-08-15 19:44:47 -0700","2017-10-14 23:58:18 -0700","Andrew Russell
-10508 Yolanda Ave
-Northridge, CA 91326-3152
-United States of America
-8184263705","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508224","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8651097","236","kickstarter","125563","Chris Milliorn","list@hinano.org","Chris Milliorn","3860 Lakeway Dr","","Grapevine","TX","US","76092-3211","9722343211","279.0","collected","","","2017-08-15 19:41:21 -0700","2017-09-29 08:58:18 -0700","Chris Milliorn
 3860 Lakeway Dr
 Grapevine, TX 76092-3211
 United States of America
 9722343211","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/29/17","6513753","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","0"
+"8651096","237","kickstarter","125565","Andrew Russell","a.russell902@hotmail.com","Andrew Russell","10508 Yolanda Ave","","Northridge","CA","US","91326-3152","8184263705","299.0","collected","","","2017-08-15 19:44:47 -0700","2017-10-14 23:58:18 -0700","Andrew Russell
+10508 Yolanda Ave
+Northridge, CA 91326-3152
+United States of America
+8184263705","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6508224","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8651098","238","kickstarter","125563","","toddfrombreck@gmail.com","Todd Caldwell C/O All Flooring Design","1915 Airport Road  Box 3568","Unit 106 ","Breckenridge","CO","US","80424","970-485-0246","279.0","collected","","","2017-08-15 19:46:02 -0700","2017-10-04 04:55:35 -0700","Todd Caldwell C/O All Flooring Design
 1915 Airport Road  Box 3568
 Unit 106 
@@ -1158,26 +1158,26 @@ United States of America
 Charleston, SC 29412-4970
 United States of America
 7208375686","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/02/17","6557439","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
-"8651102","243","kickstarter","125563","","khorrigan33@gmail.com","Kathleen Horrigan","24100 Genesee Village Rd","","Golden","CO","US","80401-7029","303-717-9535","279.0","collected","","","2017-08-15 19:53:56 -0700","2017-10-12 07:13:56 -0700","Kathleen Horrigan
-24100 Genesee Village Rd
-Golden, CO 80401-7029
-United States of America
-303-717-9535","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/12/17","6631729","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651103","242","kickstarter","125565","Kevin Wu","kevinlwu@gmail.com","Kevin Wu","11809 Trailridge Dr","","Potomac","MD","US","20854-2835","3012179124","299.0","collected","","","2017-08-15 19:51:21 -0700","2017-10-11 20:04:18 -0700","Kevin Wu
 11809 Trailridge Dr
 Potomac, MD 20854-2835
 United States of America
 3012179124","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","10/11/17","6629482","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
-"8651104","245","kickstarter","125563","","jenn78262000@yahoo.com","Jennifer Harrell","16 Stone Ridge Rd","","Brewster","MA","US","02631-1738","2812179524","279.0","collected","","","2017-08-15 20:01:35 -0700","2017-09-28 12:07:16 -0700","Jennifer Harrell
-16 Stone Ridge Rd
-Brewster, MA 02631-1738
+"8651102","243","kickstarter","125563","","khorrigan33@gmail.com","Kathleen Horrigan","24100 Genesee Village Rd","","Golden","CO","US","80401-7029","303-717-9535","279.0","collected","","","2017-08-15 19:53:56 -0700","2017-10-12 07:13:56 -0700","Kathleen Horrigan
+24100 Genesee Village Rd
+Golden, CO 80401-7029
 United States of America
-2812179524","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6506189","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
+303-717-9535","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","10/12/17","6631729","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651105","244","kickstarter","125565","Jamie Cannon","jamieisright@gmail.com","Jamie Cannon","2044 Walnut St Unit A","","Boulder","CO","US","80302-4599","3038817508","299.0","collected","","","2017-08-15 20:00:44 -0700","2017-09-28 18:12:33 -0700","Jamie Cannon
 2044 Walnut St Unit A
 Boulder, CO 80302-4599
 United States of America
 3038817508","United States of America","269.0","BikR Kit | Launch Special - Get The Rollr 60 and Bike Attachment at 41% OFF! Retail: $454 You Save: $185","09/28/17","6509217","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
+"8651104","245","kickstarter","125563","","jenn78262000@yahoo.com","Jennifer Harrell","16 Stone Ridge Rd","","Brewster","MA","US","02631-1738","2812179524","279.0","collected","","","2017-08-15 20:01:35 -0700","2017-09-28 12:07:16 -0700","Jennifer Harrell
+16 Stone Ridge Rd
+Brewster, MA 02631-1738
+United States of America
+2812179524","United States of America","249.0","RollR 60 | Launch Special - Get The RollR 60 at 38% OFF! Retail: $399 You Save: $150","09/28/17","6506189","locked_down","","","0.0","0","30.0","279.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","0","0","0"
 "8651106","246","kickstarter","125563","Thomas Dillon","tedill@hotmail.com","Thomas Dillon","98-1961 Kaahumanu St","","Aiea","HI","US","96701-1882","808-352-4349","279.0","collected","","","2017-08-15 20:06:18 -0700","2017-09-28 11:00:44 -0700","Thomas Dillon
 98-1961 Kaahumanu St
 Aiea, HI 96701-1882
@@ -1273,16 +1273,16 @@ United States of America
 Barrington, IL 60010-4548
 United States of America
 6304793177","United States of America","279.0","BikR Kit | VIP Special - Get The RollR 60 and Bike Attachment at 39% OFF! Retail: $454 You Save: $175 You will choose your color after the campaign is over.","09/29/17","6518740","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
-"8651125","267","kickstarter","125564","Barbara Christman","b.christman@yahoo.com","Bruce Christman","302 N Lake Hills Dr","","Austin","TX","US","78733-3112","5126988532","289.0","collected","","","2017-08-16 08:08:58 -0700","2017-09-28 17:48:56 -0700","Bruce Christman
-302 N Lake Hills Dr
-Austin, TX 78733-3112
-United States of America
-5126988532","United States of America","259.0","RollR 60 | VIP Special - Get The RollR 60 at 35% OFF! Retail: $399 You Save: $140 You will choose your color after the campaign is over.","09/28/17","6509077","locked_down","","","0.0","0","30.0","289.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8651126","266","kickstarter","125564","Ted Biderman","tbiderman12@gmail.com","Ted Biderman","1922 Tyler Rd","","Boulder","CO","US","80304-3623","303-618-9407","289.0","collected","","","2017-08-16 08:03:49 -0700","2017-09-28 15:35:15 -0700","Ted Biderman
 1922 Tyler Rd
 Boulder, CO 80304-3623
 United States of America
 303-618-9407","United States of America","259.0","RollR 60 | VIP Special - Get The RollR 60 at 35% OFF! Retail: $399 You Save: $140 You will choose your color after the campaign is over.","09/28/17","6508076","locked_down","","","0.0","0","30.0","289.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
+"8651125","267","kickstarter","125564","Barbara Christman","b.christman@yahoo.com","Bruce Christman","302 N Lake Hills Dr","","Austin","TX","US","78733-3112","5126988532","289.0","collected","","","2017-08-16 08:08:58 -0700","2017-09-28 17:48:56 -0700","Bruce Christman
+302 N Lake Hills Dr
+Austin, TX 78733-3112
+United States of America
+5126988532","United States of America","259.0","RollR 60 | VIP Special - Get The RollR 60 at 35% OFF! Retail: $399 You Save: $140 You will choose your color after the campaign is over.","09/28/17","6509077","locked_down","","","0.0","0","30.0","289.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8651127","269","kickstarter","125564","Jarod C","jcsjunk@gmail.com","Jarod Charo","6995 S Riverwood Blvd Unit 307","","Franklin","WI","US","53132-8013","4146789123","289.0","collected","","","2017-08-16 09:15:17 -0700","2017-09-30 09:19:21 -0700","Jarod Charo
 6995 S Riverwood Blvd Unit 307
 Franklin, WI 53132-8013
@@ -1303,16 +1303,16 @@ United States of America
 Monroe, NC 28110-8414
 United States of America
 8282315191","United States of America","279.0","BikR Kit | VIP Special - Get The RollR 60 and Bike Attachment at 39% OFF! Retail: $454 You Save: $175 You will choose your color after the campaign is over.","10/02/17","6560396","paid","10/17/17","ch_1BE2n7FJMiS2mk7E4rnnMhjA","22.0","3.0","30.0","331.0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
-"8651131","274","kickstarter","125567","Tessa trent","tessatrent@yahoo.com","Tessa Trent","18700 Butternut Road","","Lynnwood","WA","US","98037-4912","2062264540","309.0","collected","","","2017-08-16 10:38:04 -0700","2017-09-28 15:30:02 -0700","Tessa Trent
-18700 Butternut Road
-Lynnwood, WA 98037-4912
-United States of America
-2062264540","United States of America","279.0","BikR Kit | VIP Special - Get The RollR 60 and Bike Attachment at 39% OFF! Retail: $454 You Save: $175 You will choose your color after the campaign is over.","09/28/17","6508026","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8651132","273","kickstarter","125567","John Stallings","alohafromkailua@yahoo.com","","","","","","US","","","309.0","collected","","","2017-08-16 10:37:04 -0700","","
 
 ,  
 United States of America
 ","United States of America","279.0","BikR Kit | VIP Special - Get The RollR 60 and Bike Attachment at 39% OFF! Retail: $454 You Save: $175 You will choose your color after the campaign is over.","","","survey_not_answered","","","0.0","0","0.0","0.0","1","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
+"8651131","274","kickstarter","125567","Tessa trent","tessatrent@yahoo.com","Tessa Trent","18700 Butternut Road","","Lynnwood","WA","US","98037-4912","2062264540","309.0","collected","","","2017-08-16 10:38:04 -0700","2017-09-28 15:30:02 -0700","Tessa Trent
+18700 Butternut Road
+Lynnwood, WA 98037-4912
+United States of America
+2062264540","United States of America","279.0","BikR Kit | VIP Special - Get The RollR 60 and Bike Attachment at 39% OFF! Retail: $454 You Save: $175 You will choose your color after the campaign is over.","09/28/17","6508026","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8651133","275","kickstarter","125567","Evan negley","negley6@gmail.com","Evan Negley","1538 Ponopono Pl","","Kailua","HI","US","96734-4167","8123197944","309.0","collected","","","2017-08-16 11:15:22 -0700","2017-10-02 23:07:24 -0700","Evan Negley
 1538 Ponopono Pl
 Kailua, HI 96734-4167
@@ -1458,16 +1458,16 @@ United States of America
 London, OH 43140-1131
 United States of America
 7405060627","United States of America","279.0","BikR Kit | VIP Special - Get The RollR 60 and Bike Attachment at 39% OFF! Retail: $454 You Save: $175 You will choose your color after the campaign is over.","09/28/17","6508246","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
-"8651162","314","kickstarter","125564","Nathan uglow","nathanuglow@gmail.com","Richard Nathan Uglow ","213 N Saint Marks Ave","","Chattanooga","TN","US","37411-3923","6787686151","289.0","collected","","","2017-08-16 20:59:42 -0700","2017-09-28 15:33:09 -0700","Richard Nathan Uglow 
-213 N Saint Marks Ave
-Chattanooga, TN 37411-3923
-United States of America
-6787686151","United States of America","259.0","RollR 60 | VIP Special - Get The RollR 60 at 35% OFF! Retail: $399 You Save: $140 You will choose your color after the campaign is over.","09/28/17","6508068","locked_down","","","0.0","0","30.0","289.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651163","313","kickstarter","125564","Jesse Peno","jessepeno@yahoo.com","Jesse Peno","19 Monument Rd","","Orleans","MA","US","02653-3506","16176887295","289.0","collected","","","2017-08-16 20:57:17 -0700","2017-09-28 15:34:08 -0700","Jesse Peno
 19 Monument Rd
 Orleans, MA 02653-3506
 United States of America
 16176887295","United States of America","259.0","RollR 60 | VIP Special - Get The RollR 60 at 35% OFF! Retail: $399 You Save: $140 You will choose your color after the campaign is over.","09/28/17","6508067","locked_down","","","0.0","0","30.0","289.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
+"8651162","314","kickstarter","125564","Nathan uglow","nathanuglow@gmail.com","Richard Nathan Uglow ","213 N Saint Marks Ave","","Chattanooga","TN","US","37411-3923","6787686151","289.0","collected","","","2017-08-16 20:59:42 -0700","2017-09-28 15:33:09 -0700","Richard Nathan Uglow 
+213 N Saint Marks Ave
+Chattanooga, TN 37411-3923
+United States of America
+6787686151","United States of America","259.0","RollR 60 | VIP Special - Get The RollR 60 at 35% OFF! Retail: $399 You Save: $140 You will choose your color after the campaign is over.","09/28/17","6508068","locked_down","","","0.0","0","30.0","289.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","1","0","0","0","0","0","0","0","0"
 "8651164","315","kickstarter","125567","Luke Andrusyk","landrusyk@gmail.com","Luke Andrusyk ","6438 W 65th Ave","","Arvada","CO","US","80003-4515","7204608586","309.0","collected","","","2017-08-16 21:07:33 -0700","2017-09-28 16:58:46 -0700","Luke Andrusyk 
 6438 W 65th Ave
 Arvada, CO 80003-4515
@@ -1478,16 +1478,16 @@ United States of America
 Snohomish, WA 98290-1309
 United States of America
 4257503146","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","09/28/17","6508011","locked_down","","","0.0","0","60.0","529.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","0","0","0","1","1","0","0","0","0","0"
-"8651166","319","kickstarter","125567","Barbra Bass Ewing","barbrabass69@gmail.com","Barbra Bass Ewing","759 Topaz St","","Superior","CO","US","80027-6038","9704701334","309.0","collected","","","2017-08-16 22:12:56 -0700","2017-09-28 10:33:42 -0700","Barbra Bass Ewing
-759 Topaz St
-Superior, CO 80027-6038
-United States of America
-9704701334","United States of America","279.0","BikR Kit | VIP Special - Get The RollR 60 and Bike Attachment at 39% OFF! Retail: $454 You Save: $175 You will choose your color after the campaign is over.","09/28/17","6504700","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8651167","318","kickstarter","125564","John Benjamin Bookout","jben.bookout@gmail.com","Ben Bookout","26579 Redlands Mesa Rd","","Hotchkiss","CO","US","81419-6206","7202127741","289.0","collected","","","2017-08-16 22:03:06 -0700","2017-09-28 08:32:06 -0700","Ben Bookout
 26579 Redlands Mesa Rd
 Hotchkiss, CO 81419-6206
 United States of America
 7202127741","United States of America","259.0","RollR 60 | VIP Special - Get The RollR 60 at 35% OFF! Retail: $399 You Save: $140 You will choose your color after the campaign is over.","09/28/17","6503696","locked_down","","","0.0","0","30.0","289.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
+"8651166","319","kickstarter","125567","Barbra Bass Ewing","barbrabass69@gmail.com","Barbra Bass Ewing","759 Topaz St","","Superior","CO","US","80027-6038","9704701334","309.0","collected","","","2017-08-16 22:12:56 -0700","2017-09-28 10:33:42 -0700","Barbra Bass Ewing
+759 Topaz St
+Superior, CO 80027-6038
+United States of America
+9704701334","United States of America","279.0","BikR Kit | VIP Special - Get The RollR 60 and Bike Attachment at 39% OFF! Retail: $454 You Save: $175 You will choose your color after the campaign is over.","09/28/17","6504700","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8651168","321","kickstarter","125569","Nicholas Cline","cline.nicholas@gmail.com","Nicholas Cline","3774 Erlewine Cir","","Sacramento","CA","US","95819-1519","916-524-4836","329.0","collected","","","2017-08-17 05:40:04 -0700","2017-09-28 17:02:48 -0700","Nicholas Cline
 3774 Erlewine Cir
 Sacramento, CA 95819-1519
@@ -1518,11 +1518,11 @@ United States of America
 Boulder, CO 80305-5624
 United States of America
 720 470 2981","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","10/01/17","6541253","locked_down","","","0.0","0","30.0","329.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","0"
-"8651174","327","kickstarter","125569","Whitney McMackin","whitney.mcmackin@gmail.com","","","","","","US","","","329.0","collected","","","2017-08-17 15:14:50 -0700","","
-
-,  
+"8651174","327","kickstarter","125569","Whitney McMackin","whitney.mcmackin@gmail.com","Whitney Holland-McMackin","2061 Smokewood Ave","","Fullerton","CA","US","92831-1035","4135884173","329.0","collected","","","2017-08-17 15:14:50 -0700","2017-11-27 06:30:58 -0800","Whitney Holland-McMackin
+2061 Smokewood Ave
+Fullerton, CA 92831-1035
 United States of America
-","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","","","survey_not_answered","","","0.0","0","0.0","0.0","1","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
+4135884173","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","11/27/17","6940305","open","","","0.0","0","30.0","329.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8651175","329","kickstarter","125573","Michael Sparda","msparda@gmail.com","Michael Sparda","58 Oakdene Ct","","Walnut Creek","CA","US","94596-5428","9172084000","529.0","collected","","","2017-08-17 16:48:28 -0700","2017-09-28 15:40:29 -0700","Michael Sparda
 58 Oakdene Ct
 Walnut Creek, CA 94596-5428
@@ -1639,16 +1639,16 @@ United States of America
 Ewing, NJ 08618-2715
 United States of America
 7242631875","United States of America","269.0","RollR 60 | Super Early Bird - Get The RollR 60 at 33% OFF! Retail: $399 You Save: $130 You will choose your color after the campaign is over.","09/28/17","6508036","paid","10/17/17","ch_1BE2n2FJMiS2mk7EDbggEvxO","13.0","3.0","30.0","312.0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
-"8651198","355","kickstarter","125566","James","jamesfox640@gmail.com","James Fox","1234 Tulip Rd","","Warminster","PA","US","18974-2109","2155349541","299.0","collected","","","2017-08-20 09:35:36 -0700","2017-09-28 18:44:25 -0700","James Fox
-1234 Tulip Rd
-Warminster, PA 18974-2109
-United States of America
-2155349541","United States of America","269.0","RollR 60 | Super Early Bird - Get The RollR 60 at 33% OFF! Retail: $399 You Save: $130 You will choose your color after the campaign is over.","09/28/17","6509411","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8651199","354","kickstarter","125573","Michelle Gonzalez","chelle1355@yahoo.com","","","","","","US","","","529.0","collected","","","2017-08-20 09:32:25 -0700","","
 
 ,  
 United States of America
 ","United States of America","469.0","RollR 60 | Two Pack - Get The RollR 60 (x2) at 41% OFF! Retail: $798 You Save: $329 You will choose your color after the campaign is over.","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","2","0","0","0","0","2","0","0","0","0","0","0","2","0","0","0","0","0","0","0","0","0","0","0","0"
+"8651198","355","kickstarter","125566","James","jamesfox640@gmail.com","James Fox","1234 Tulip Rd","","Warminster","PA","US","18974-2109","2155349541","299.0","collected","","","2017-08-20 09:35:36 -0700","2017-09-28 18:44:25 -0700","James Fox
+1234 Tulip Rd
+Warminster, PA 18974-2109
+United States of America
+2155349541","United States of America","269.0","RollR 60 | Super Early Bird - Get The RollR 60 at 33% OFF! Retail: $399 You Save: $130 You will choose your color after the campaign is over.","09/28/17","6509411","locked_down","","","0.0","0","30.0","299.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8651200","356","kickstarter","125569","Michelle Opperman","chelleopperman@gmail.com","David Opperman","14810 E 42nd St S Ste 100","","Independence","MO","US","64055-4890","8164615113","329.0","collected","","","2017-08-20 10:31:45 -0700","2017-09-29 14:23:32 -0700","David Opperman
 14810 E 42nd St S Ste 100
 Independence, MO 64055-4890
@@ -1749,11 +1749,11 @@ United States of America
 Plantation, FL 33313-4507
 United States of America
 954-658-9214","United States of America","269.0","RollR 60 | Super Early Bird - Get The RollR 60 at 33% OFF! Retail: $399 You Save: $130 You will choose your color after the campaign is over.","09/29/17","6511838","paid","10/17/17","ch_1BE2n2FJMiS2mk7EoBcCpcTR","22.0","3.0","30.0","321.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","0","0","0","1","0","0","0","0","0","0"
-"8651220","380","kickstarter","125569","Justin Cykler","justincykler@msn.com","","","","","","US","","","329.0","collected","","","2017-08-22 09:41:23 -0700","","
-
-,  
+"8651220","380","kickstarter","125569","Justin Cykler","justincykler@msn.com","Justin Cykler","3110 NE Magnolia St","","Issaquah","WA","US","98029-3603","206-423-2538","329.0","collected","","","2017-08-22 09:41:23 -0700","2017-11-28 07:24:24 -0800","Justin Cykler
+3110 NE Magnolia St
+Issaquah, WA 98029-3603
 United States of America
-","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","","","survey_not_answered","","","0.0","0","0.0","0.0","1","0","0","0","1","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","0","0"
+206-423-2538","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","11/28/17","6945886","open","","","0.0","0","30.0","329.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
 "8651221","381","kickstarter","125566","Brady Knowles","cbknowles@gmail.com","Christopher Knowles","951 Alta Mar Ter","","San Jose","CA","US","95126-1075","7209350725","299.0","collected","","","2017-08-22 10:01:14 -0700","2017-09-28 16:48:39 -0700","Christopher Knowles
 951 Alta Mar Ter
 San Jose, CA 95126-1075
@@ -1794,16 +1794,16 @@ United States of America
 ,  
 
 ","","0.0","Backers in this tier chose not to receive a reward","09/28/17","6508396","locked_down","","","0.0","0","0.0","10.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
-"8651229","391","kickstarter","125569","Samuel J Meyer","captsam@att.net","SAMUEL J MEYER","63 W Bluff Drive","","Savannah","GA","US","31406","19123987121","329.0","collected","","","2017-08-22 12:41:26 -0700","2017-09-29 06:00:33 -0700","SAMUEL J MEYER
-63 W Bluff Drive
-Savannah, GA 31406
-United States of America
-19123987121","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","09/29/17","6512295","paid","10/17/17","ch_1BE2n3FJMiS2mk7EJvck4sXm","76.0","8.0","30.0","405.0","1","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8651230","390","kickstarter","125574","Michael Turner","travelin.mikeyt@gmail.com","Michael Turner","1655 Walnut St Unit 304","","Boulder","CO","US","80302-5436","18043856969","579.0","collected","","","2017-08-22 12:40:09 -0700","2017-10-02 11:08:51 -0700","Michael Turner
 1655 Walnut St Unit 304
 Boulder, CO 80302-5436
 United States of America
 18043856969","United States of America","519.0","BikR Kit | Two Pack - Get The RollR 60 (x2) and Bike Attachment (x2) at 43% OFF! Retail: $908 You Save: $389 You will choose your color after the campaign is over.","10/02/17","6556065","locked_down","","","0.0","0","60.0","579.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","0","0","0","0","0","1","0","1","0","0"
+"8651229","391","kickstarter","125569","Samuel J Meyer","captsam@att.net","SAMUEL J MEYER","63 W Bluff Drive","","Savannah","GA","US","31406","19123987121","329.0","collected","","","2017-08-22 12:41:26 -0700","2017-09-29 06:00:33 -0700","SAMUEL J MEYER
+63 W Bluff Drive
+Savannah, GA 31406
+United States of America
+19123987121","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","09/29/17","6512295","paid","10/17/17","ch_1BE2n3FJMiS2mk7EJvck4sXm","76.0","8.0","30.0","405.0","1","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","0","1","0"
 "8651231","392","kickstarter","125566","Anthony Cordo","fuzzie47@gmail.com","Anthony Cordo","58 Baker Pine Rd","","Wyoming","RI","US","02898-1148","4018298089","0.0","failed","","","2017-08-22 13:23:16 -0700","2017-10-12 06:02:24 -0700","Anthony Cordo
 58 Baker Pine Rd
 Wyoming, RI 02898-1148
@@ -2130,16 +2130,16 @@ United States of America
 Incline Village, NV 89451-8816
 United States of America
 7752190662","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","09/28/17","6508701","locked_down","","","0.0","0","30.0","329.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
-"8651296","462","kickstarter","125569","Melissa Stephens","mjs1222@gmail.com","Melissa Stephens","3715 103rd Avenue Ct NW","","Gig Harbor","WA","US","98335-5823","2532650553","329.0","collected","","","2017-08-28 11:22:58 -0700","2017-09-28 15:40:50 -0700","Melissa Stephens
-3715 103rd Avenue Ct NW
-Gig Harbor, WA 98335-5823
-United States of America
-2532650553","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","09/28/17","6508140","locked_down","","","0.0","0","30.0","329.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8651297","461","kickstarter","125566","Gary Arlen Smith","gary@ela-law.com","Gary A Smith","622 W Hortter St","","Philadelphia","PA","US","19119-3649","6104056039","0.0","failed","","","2017-08-28 11:14:00 -0700","2017-10-03 10:45:08 -0700","Gary A Smith
 622 W Hortter St
 Philadelphia, PA 19119-3649
 United States of America
 6104056039","United States of America","269.0","RollR 60 | Super Early Bird - Get The RollR 60 at 33% OFF! Retail: $399 You Save: $130 You will choose your color after the campaign is over.","10/01/17","6534916","paid","10/17/17","ch_1BE2n6FJMiS2mk7EhBFZ9Lj3","333.0","5.0","30.0","333.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","0","0","1","0","0"
+"8651296","462","kickstarter","125569","Melissa Stephens","mjs1222@gmail.com","Melissa Stephens","3715 103rd Avenue Ct NW","","Gig Harbor","WA","US","98335-5823","2532650553","329.0","collected","","","2017-08-28 11:22:58 -0700","2017-09-28 15:40:50 -0700","Melissa Stephens
+3715 103rd Avenue Ct NW
+Gig Harbor, WA 98335-5823
+United States of America
+2532650553","United States of America","299.0","BikR Kit | Super Early Bird - Get The RollR 60 and Bike Attachment at 35% OFF! Retail: $454 You Save: $155 You will choose your color after the campaign is over.","09/28/17","6508140","locked_down","","","0.0","0","30.0","329.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","0","0","1","0","0","0","0"
 "8651298","463","kickstarter","125566","john persico","johnapersico@gmail.com","John persico","1869 Henry Rd","","Merrick","NY","US","11566-2336","6314878838","299.0","collected","","","2017-08-28 12:49:44 -0700","2017-09-28 15:28:04 -0700","John persico
 1869 Henry Rd
 Merrick, NY 11566-2336
@@ -2251,9 +2251,9 @@ United States of America
 Portland, OR 97229-6657
 United States of America
 503-813-5081","United States of America","279.0","RollR 60 | Early Bird - Get The RollR 60 at 30% OFF! Retail: $399 You Save: $120 You will choose your color after the campaign is over.","09/28/17","6508609","paid","10/17/17","ch_1BE2n2FJMiS2mk7E0WJz4Az4","324.0","30.0","30.0","633.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","0","0","0","1","0","0","0","1","0","0"
-"8651320","487","kickstarter","125568","Jared Klingenberg","jlklingenberg92@gmail.com","Jared Klingenberg","2041 N Chandler Dr Apt 1","","Cedar City","UT","US","84721-8978","2063548516","309.0","collected","","","2017-08-29 22:13:26 -0700","2017-10-01 17:30:49 -0700","Jared Klingenberg
-2041 N Chandler Dr Apt 1
-Cedar City, UT 84721-8978
+"8651320","487","kickstarter","125568","Jared Klingenberg","jlklingenberg92@gmail.com","Jared Klingenberg","31731 NE 114st Street","","carnation","wa","US","98014","2063548516","309.0","collected","","","2017-08-29 22:13:26 -0700","2017-10-01 17:30:49 -0700","Jared Klingenberg
+31731 NE 114st Street
+carnation, wa 98014
 United States of America
 2063548516","United States of America","279.0","RollR 60 | Early Bird - Get The RollR 60 at 30% OFF! Retail: $399 You Save: $120 You will choose your color after the campaign is over.","10/01/17","6540012","locked_down","","","0.0","0","30.0","309.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","0","0","1","0","0","0","0","0","0","0","0","0"
 "8651321","489","kickstarter","125570","Timothy Kirk","lefty805@gmail.com","Timothy Kirk ","8941 Lewis Ave","","Temperance","MI","US","48182-1656","734-847-6788","339.0","collected","","","2017-08-30 05:00:20 -0700","2017-09-29 03:09:03 -0700","Timothy Kirk 
@@ -2621,7 +2621,7 @@ United States of America
 ,  
 
 ","","0.0","Backers in this tier chose not to receive a reward","","","survey_not_answered","","","0.0","0","0.0","0.0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
-"8651394","567","kickstarter","125568","Shirley Seiter","swseiter@gmail.com","Shirley Seiter","508 Azalea Dr","","Tamassee","SC","US","29686-2700","8647840502","0.0","failed","","","2017-09-11 08:27:01 -0700","2017-11-05 19:44:44 -0800","Shirley Seiter
+"8651394","567","kickstarter","125568","Shirley Seiter","swseiter@gmail.com","Shirley Seiter","508 Azalea Dr","","Tamassee","SC","US","29686-2700","8647840502","0.0","failed","","","2017-09-11 08:27:01 -0700","2017-11-14 03:59:05 -0800","Shirley Seiter
 508 Azalea Dr
 Tamassee, SC 29686-2700
 United States of America
