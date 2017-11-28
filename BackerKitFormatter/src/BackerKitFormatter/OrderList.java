@@ -216,11 +216,18 @@ public class OrderList {
         for(Order o: orderListCopy){
             Order copyOrder = new Order(o);
             SKUs sku = new SKUs(copyOrder.getSKUs());
+            boolean hasAddedAccessoriesForThisOrder = false;
+            SKUs accessorySKUs = new SKUs(copyOrder);
             //SKUs accessorySKUs = new SKUs(o);
             int dRollrCount = sku.getdRollr();
             while(dRollrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().dRollr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
+                
                 dRollrCount -= 1;
             }
             copyOrder = new Order(o);
@@ -228,6 +235,10 @@ public class OrderList {
             int pRollrCount = sku.getpRollr();
             while(pRollrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().pRollr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 pRollrCount -= 1;
             }
@@ -236,6 +247,10 @@ public class OrderList {
             int mRollrCount = sku.getmRollr();
             while(mRollrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().mRollr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 mRollrCount -= 1;
             }
@@ -244,6 +259,10 @@ public class OrderList {
             int nbRollrCount = sku.getNbRollr();
             while(nbRollrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().nbRollr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 nbRollrCount -= 1;
             }
@@ -252,6 +271,10 @@ public class OrderList {
             int puRollrCount = sku.getPuRollr();
             while(puRollrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().puRollr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 puRollrCount -= 1;
             }
@@ -260,6 +283,10 @@ public class OrderList {
             int dBikrCount = sku.getdBikr();
             while(dBikrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().dBikr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 dBikrCount -= 1;
             }
@@ -268,6 +295,10 @@ public class OrderList {
             int pBikrCount = sku.getpBikr();
             while(pBikrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().pBikr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 pBikrCount -= 1;
             }
@@ -276,6 +307,10 @@ public class OrderList {
             int mBikrCount = sku.getmBikr();
             while(mBikrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().mBikr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 mBikrCount -= 1;
             }
@@ -284,6 +319,10 @@ public class OrderList {
             int nbBikrCount = sku.getNbBikr();
             while(nbBikrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().nbBikr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 nbBikrCount -= 1;
             }
@@ -292,6 +331,10 @@ public class OrderList {
             int puBikrCount = sku.getPuBikr();
             while(puBikrCount > 0){
                 copyOrder.setSkus(new SKUs.SKUsBuilder().puBikr(1).build());
+                if(!hasAddedAccessoriesForThisOrder){
+                    copyOrder.getSKUs().add(accessorySKUs);
+                    hasAddedAccessoriesForThisOrder = true;
+                }
                 orderLineSplit.add(new Order(copyOrder));
                 puBikrCount -= 1;
             }
@@ -300,19 +343,19 @@ public class OrderList {
             }
         }
         
-        boolean hasAdded = false;
-        for(Order o1 : orderListCopy){
-            SKUs accessorySKU = new SKUs(o1);
-            for(Order o2 : orderLineSplit){
-                if(o1.getId().equals(o2.getId())){
-                    if(!hasAdded){
-                        o2.getSKUs().add(accessorySKU);
-                        hasAdded = true;
-                    }
-                }
-            }
-            hasAdded = false;
-        }
+//        boolean hasAdded = false;
+//        for(Order o1 : orderListCopy){
+//            SKUs accessorySKU = new SKUs(o1);
+//            for(Order o2 : orderLineSplit){
+//                if(o1.getId().equals(o2.getId())){
+//                    if(!hasAdded){
+//                        o2.getSKUs().add(accessorySKU);
+//                        hasAdded = true;
+//                    }
+//                }
+//            }
+//            hasAdded = false;
+//        }
         
         orderList = orderLineSplit;
     }
